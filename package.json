@@ -2,7 +2,9 @@
   "name": "@fg/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "generate:css": "npx nx run libs/shared/styles:generate-tokens"
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "~16.2.0",

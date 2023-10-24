@@ -28,8 +28,10 @@
         "cwd": "libs/shared/styles/",
         "commands": [
           "rm -rf src/lib/__generated__/",
-          "npx style-dictionary build --config style-dictionary.config.js"
-        ]
+          "node ./src/lib/__tokens__/scripts/replace.js ./src/lib/__tokens__/adelyn.tokens.json",
+          "node ./src/lib/__tokens__/scripts/style-dictionary-utils.js"
+        ],
+        "parallel": false
       }
     }
   }
