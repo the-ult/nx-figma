@@ -1,0 +1,36 @@
+{
+  "name": "libs/shared/styles",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/shared/styles/src",
+  "prefix": "fg",
+  "tags": [],
+  "projectType": "library",
+  "targets": {
+    "build": {
+      "executor": "@nx/angular:ng-packagr-lite",
+      "outputs": ["{workspaceRoot}/dist/{projectRoot}"],
+      "options": {
+        "project": "libs/shared/styles/ng-package.json"
+      },
+      "configurations": {
+        "production": {
+          "tsConfig": "libs/shared/styles/tsconfig.lib.prod.json"
+        },
+        "development": {
+          "tsConfig": "libs/shared/styles/tsconfig.lib.json"
+        }
+      },
+      "defaultConfiguration": "production"
+    },
+    "generate-tokens": {
+      "executor": "nx:run-commands",
+      "options": {
+        "cwd": "libs/shared/styles/",
+        "commands": [
+          "rm -rf src/lib/__generated__/",
+          "npx style-dictionary build --config style-dictionary.config.js"
+        ]
+      }
+    }
+  }
+}

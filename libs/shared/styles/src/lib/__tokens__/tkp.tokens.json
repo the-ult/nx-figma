@@ -1,0 +1,983 @@
+{
+  "mg": {
+    "background": {
+      "alternate": {
+        "value": "#f6f8fb",
+        "type": "color",
+        "description": "Background for alternating rows in tables"
+      },
+      "danger-00": {
+        "value": "#f2d8dc",
+        "type": "color",
+        "description": "Background for elements that represents a danger state"
+      },
+      "danger-01": {
+        "value": "#de98a4",
+        "type": "color",
+        "description": "Background for elements that represents a danger state"
+      },
+      "danger-02": {
+        "value": "#ce6679",
+        "type": "color",
+        "description": "Background for elements that represents a danger state"
+      },
+      "disabled": {
+        "value": "#d8d8d8",
+        "type": "color",
+        "description": "Background for disabled elements. Remember: Disabled UI = Bad UI "
+      },
+      "hover": {
+        "value": "#f1f5fa",
+        "type": "color",
+        "description": "Generic hover color"
+      },
+      "info-00": {
+        "value": "#d8e4f2",
+        "type": "color",
+        "description": "Background for elements that represents an info state"
+      },
+      "info-01": {
+        "value": "#98b9de",
+        "type": "color",
+        "description": "Background for elements that represents an info state"
+      },
+      "info-02": {
+        "value": "#6697ce",
+        "type": "color",
+        "description": "Background for elements that represents an info state"
+      },
+      "interactive-01": {
+        "value": "#667e99",
+        "type": "color",
+        "description": "Background for elements that are interactive"
+      },
+      "interactive-02": {
+        "value": "#47576b",
+        "type": "color",
+        "description": "Background for elements that are interactive"
+      },
+      "interactive-03": {
+        "value": "#323e4c",
+        "type": "color",
+        "description": "Background for elements that are interactive"
+      },
+      "main": {
+        "value": "#f2f3f4",
+        "type": "color",
+        "description": "Background for main panel"
+      },
+      "selected": {
+        "value": "#d8e4f2",
+        "type": "color",
+        "description": "Background for selected elements, like rows or menu-items "
+      },
+      "success-00": {
+        "value": "#d9efe5",
+        "type": "color",
+        "description": "Background for elements that represents a success state"
+      },
+      "success-01": {
+        "value": "#9cd6bb",
+        "type": "color",
+        "description": "Background for elements that represents a success state"
+      },
+      "success-02": {
+        "value": "#6cc399",
+        "type": "color",
+        "description": "Background for elements that represents a success state"
+      },
+      "transparent-danger-00": {
+        "value": "#af00200d",
+        "type": "color",
+        "description": "Transparent background for elements that represent a danger state."
+      },
+      "transparent-danger-01": {
+        "value": "#af00201a",
+        "type": "color",
+        "description": "Transparent background for elements that represent a danger state."
+      },
+      "transparent-danger-02": {
+        "value": "#af002033",
+        "type": "color",
+        "description": "Transparent background for elements that represent a danger state."
+      },
+      "transparent-info-00": {
+        "value": "#0054ae0d",
+        "type": "color",
+        "description": "Transparent background for elements that represent an info state."
+      },
+      "transparent-info-01": {
+        "value": "#0054ae1a",
+        "type": "color",
+        "description": "Transparent background for elements that represent an info state."
+      },
+      "transparent-info-02": {
+        "value": "#0054ae33",
+        "type": "color",
+        "description": "Transparent background for elements that represent an info state.\n"
+      },
+      "transparent-primary-00": {
+        "value": "#0054ae0d",
+        "type": "color",
+        "description": "Transparent background for primary elements "
+      },
+      "transparent-primary-01": {
+        "value": "#0054ae1a",
+        "type": "color",
+        "description": "Transparent background for primary elements "
+      },
+      "transparent-primary-02": {
+        "value": "#0054ae33",
+        "type": "color",
+        "description": "Transparent background for primary elements "
+      },
+      "transparent-secondary-00": {
+        "value": "#667e990d",
+        "type": "color",
+        "description": "Transparent background for secondary elements "
+      },
+      "transparent-secondary-01": {
+        "value": "#667e991a",
+        "type": "color",
+        "description": "Transparent background for secondary elements "
+      },
+      "transparent-secondary-02": {
+        "value": "#667e9933",
+        "type": "color",
+        "description": "Transparent background for secondary elements "
+      },
+      "transparent-success-00": {
+        "value": "#0a9c580d",
+        "type": "color",
+        "description": "Transparent background for elements that represent a success state."
+      },
+      "transparent-success-01": {
+        "value": "#0a9c581a",
+        "type": "color",
+        "description": "Transparent background for elements that represent a success state."
+      },
+      "transparent-success-02": {
+        "value": "#0a9c5833",
+        "type": "color",
+        "description": "Transparent background for elements that represent a success state."
+      },
+      "transparent-warning-00": {
+        "value": "#fe9e020d",
+        "type": "color",
+        "description": "Transparent background for elements that represent a warning state."
+      },
+      "transparent-warning-01": {
+        "value": "#fe9e021a",
+        "type": "color",
+        "description": "Transparent background for elements that represent a warning state."
+      },
+      "transparent-warning-02": {
+        "value": "#fe9e0233",
+        "type": "color",
+        "description": "Transparent background for elements that represent a warning state."
+      },
+      "warning-00": {
+        "value": "#feefd8",
+        "type": "color",
+        "description": "Background for elements that represent a warning state."
+      },
+      "warning-01": {
+        "value": "#fed798",
+        "type": "color",
+        "description": "Background for elements that represent a warning state."
+      },
+      "warning-02": {
+        "value": "#fec467",
+        "type": "color",
+        "description": "Background for elements that represent a warning state.\n"
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Generic white color for elements like icons and the default page background"
+      },
+      "transparent": {
+        "value": "#ffffff00",
+        "type": "color",
+        "description": "Transparent background. Mostly used for design purposes to get proper transitions on transparent elements."
+      }
+    },
+    "border": {
+      "active": {
+        "value": "#98b9de",
+        "type": "color",
+        "description": "Active border"
+      },
+      "disabled": {
+        "value": "#d8d8d8",
+        "type": "color",
+        "description": "Border for disabled elements. Remember: Disabled UI = Bad UI"
+      },
+      "interactive-00": {
+        "value": "#c0cad5",
+        "type": "color",
+        "description": "Border for interactive elements"
+      },
+      "interactive-01": {
+        "value": "#667e99",
+        "type": "color",
+        "description": "Border for interactive elements"
+      },
+      "interactive-02": {
+        "value": "#47576b",
+        "type": "color",
+        "description": "Border for interactive elements"
+      },
+      "interactive-03": {
+        "value": "#323e4c",
+        "type": "color",
+        "description": "Border for interactive elements"
+      },
+      "strong-01": {
+        "value": "#0054ae",
+        "type": "color",
+        "description": "Border for selected or selectable elements"
+      },
+      "strong-02": {
+        "value": "#002957",
+        "type": "color",
+        "description": "Border for selected or selectable elements\n"
+      },
+      "subtle-00": {
+        "value": "#0029570d",
+        "type": "color",
+        "description": "Subtle border paired with elements with a white background"
+      },
+      "subtle-01": {
+        "value": "#0029571a",
+        "type": "color",
+        "description": "Subtle border paired with elements with a white background. Subtle-01 is used for cards."
+      },
+      "subtle-02": {
+        "value": "#00295733",
+        "type": "color",
+        "description": "Subtle border paired with elements with a white background. Subtle-02 is used for dialogs."
+      },
+      "transparent": {
+        "value": "#ffffff00",
+        "type": "color",
+        "description": "Transparent border. Mostly used for design purposes to get proper transitions on transparent elements."
+      },
+      "danger-00": {
+        "value": "#df99a5",
+        "type": "color",
+        "description": "Border for elements that represent a danger state"
+      },
+      "danger-01": {
+        "value": "#af0020",
+        "type": "color",
+        "description": "Border for elements that represent a danger state"
+      },
+      "danger-02": {
+        "value": "#7a0016",
+        "type": "color",
+        "description": "Border for elements that represent a danger state"
+      },
+      "info-00": {
+        "value": "#99badf",
+        "type": "color",
+        "description": "Border for elements that represent an info state"
+      },
+      "info-01": {
+        "value": "#0054ae",
+        "type": "color",
+        "description": "Border for elements that represent an info state"
+      },
+      "info-02": {
+        "value": "#003a7a",
+        "type": "color",
+        "description": "Border for elements that represent an info state"
+      },
+      "secondary-00": {
+        "value": "#c1cbd6",
+        "type": "color",
+        "description": "Border for secondary elements "
+      },
+      "secondary-01": {
+        "value": "#667e99",
+        "type": "color",
+        "description": "Border for secondary elements "
+      },
+      "secondary-02": {
+        "value": "#47576b",
+        "type": "color",
+        "description": "Border for secondary elements "
+      },
+      "success-00": {
+        "value": "#9dd7bc",
+        "type": "color",
+        "description": "Border for elements that represent a success state"
+      },
+      "success-01": {
+        "value": "#0a9c58",
+        "type": "color",
+        "description": "Border for elements that represent a success state"
+      },
+      "success-02": {
+        "value": "#066d3d",
+        "type": "color",
+        "description": "Border for elements that represent a success state"
+      },
+      "warning-00": {
+        "value": "#ffd899",
+        "type": "color",
+        "description": "Border for elements that represent a warning state"
+      },
+      "warning-01": {
+        "value": "#fe9e02",
+        "type": "color",
+        "description": "Border for elements that represent a warning state"
+      },
+      "warning-02": {
+        "value": "#b16e01",
+        "type": "color",
+        "description": "Border for elements that represent a warning state"
+      },
+      "transparent-info-01": {
+        "value": "#0054ae33",
+        "type": "color",
+        "description": "Transparent border for elements that represent an info state"
+      },
+      "transparent-danger-01": {
+        "value": "#af002033",
+        "type": "color",
+        "description": "Transparent border for elements that represent a danger state"
+      },
+      "transparent-warning-01": {
+        "value": "#fe9e0233",
+        "type": "color",
+        "description": "Transparent border for elements that represent a warning state"
+      },
+      "transparent-success-01": {
+        "value": "#0a9c5833",
+        "type": "color",
+        "description": "Transparent border for elements that represent a success state"
+      }
+    },
+    "brand": {
+      "tkp-red": {
+        "value": "#f91900",
+        "type": "color",
+        "description": "The TKP brand color. Only usable for branding purposes. The TKP-red color should not be used to represent error\n or danger states."
+      }
+    },
+    "button": {
+      "danger-active": {
+        "value": "#57000f",
+        "type": "color",
+        "description": "Button color for active \ndanger-buttons"
+      },
+      "danger-enabled": {
+        "value": "#af0020",
+        "type": "color",
+        "description": "Button color for danger-buttons"
+      },
+      "danger-focus": {
+        "value": "#af0020",
+        "type": "color",
+        "description": "Button color for focussed \ndanger-buttons"
+      },
+      "danger-hover": {
+        "value": "#7a0016",
+        "type": "color",
+        "description": "Button color for hovered danger-buttons"
+      },
+      "primary-active": {
+        "value": "#002957",
+        "type": "color",
+        "description": "Button color for active primary-buttons"
+      },
+      "primary-enabled": {
+        "value": "#0054ae",
+        "type": "color",
+        "description": "Button color for primary-buttons"
+      },
+      "primary-focus": {
+        "value": "#0054ae",
+        "type": "color",
+        "description": "Button color for focussed primary-buttons"
+      },
+      "primary-hover": {
+        "value": "#003a7a",
+        "type": "color",
+        "description": "Button color for hovered primary-buttons"
+      },
+      "secondary-active": {
+        "value": "#323e4c",
+        "type": "color",
+        "description": "Button color for active secondary-buttons"
+      },
+      "secondary-enabled": {
+        "value": "#667e99",
+        "type": "color",
+        "description": "Button color for secondary-buttons"
+      },
+      "secondary-focus": {
+        "value": "#667e99",
+        "type": "color",
+        "description": "Button color for focussed secondary-buttons"
+      },
+      "secondary-hover": {
+        "value": "#47576b",
+        "type": "color",
+        "description": "Button color for hovered secondary-buttons"
+      },
+      "secondary-selected": {
+        "value": "#002957",
+        "type": "color",
+        "description": "Button color for selected highlights on action and/or toggle buttons"
+      },
+      "success-active": {
+        "value": "#044e2b",
+        "type": "color",
+        "description": "Button color for active success-buttons"
+      },
+      "success-enabled": {
+        "value": "#0a9c58",
+        "type": "color",
+        "description": "Button color for secondary-buttons"
+      },
+      "success-focus": {
+        "value": "#0a9c58",
+        "type": "color",
+        "description": "Button color for focussed secondary-buttons"
+      },
+      "success-hover": {
+        "value": "#066d3d",
+        "type": "color",
+        "description": "Button color for hovered secondary-buttons"
+      },
+      "warning-active": {
+        "value": "#7f4f00",
+        "type": "color",
+        "description": "Button color for active warning-buttons"
+      },
+      "warning-enabled": {
+        "value": "#fe9e02",
+        "type": "color",
+        "description": "Button color for warning-buttons"
+      },
+      "warning-focus": {
+        "value": "#fe9e02",
+        "type": "color",
+        "description": "Button color for focussed warning-buttons"
+      },
+      "warning-hover": {
+        "value": "#b16e01",
+        "type": "color",
+        "description": "Button color for hovered warning-buttons"
+      }
+    },
+    "elevation": {
+      "1-14": {
+        "value": "#2f517624",
+        "type": "color",
+        "description": "box-shadow color, used in elevation styles. Do not use individually."
+      },
+      "2-12": {
+        "value": "#2f51761f",
+        "type": "color",
+        "description": "box-shadow color, used in elevation styles. Do not use individually."
+      },
+      "3-20": {
+        "value": "#2f517633",
+        "type": "color",
+        "description": "box-shadow color, used in elevation styles. Do not use individually."
+      }
+    },
+    "focus": {
+      "danger": {
+        "value": "#af002033",
+        "type": "color",
+        "description": "Focus ring color for focussed elements that represent a danger state"
+      },
+      "default": {
+        "value": "#0054ae33",
+        "type": "color",
+        "description": "Default focus ring color for focussed elements"
+      },
+      "info": {
+        "value": "#0054ae33",
+        "type": "color",
+        "description": "Focus ring color for focussed elements that represent an info state"
+      },
+      "success": {
+        "value": "#0a9c5833",
+        "type": "color",
+        "description": "Focus ring color for focussed elements that represent a success state"
+      },
+      "warning": {
+        "value": "#fe9e0233",
+        "type": "color",
+        "description": "Focus ring color for focussed elements that represent a warning state"
+      }
+    },
+    "icon": {
+      "danger-00": {
+        "value": "#d9000e99",
+        "type": "color",
+        "description": "Transparent icon-color for icons representing a danger state"
+      },
+      "danger-01": {
+        "value": "#af0020",
+        "type": "color",
+        "description": "Icon-color for icons representing a danger state"
+      },
+      "danger-02": {
+        "value": "#7a0016",
+        "type": "color",
+        "description": "Icon-color for icons representing a danger state"
+      },
+      "info-00": {
+        "value": "#0054ae99",
+        "type": "color",
+        "description": "Transparent icon-color for icons representing an info state"
+      },
+      "info-01": {
+        "value": "#0054ae",
+        "type": "color",
+        "description": "Icon-color for icons representing an info state"
+      },
+      "info-02": {
+        "value": "#003A7A",
+        "type": "color",
+        "description": "Icon-color for icons representing an info state"
+      },
+      "on-color": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "primary": {
+        "value": "#00295799",
+        "type": "color"
+      },
+      "strong": {
+        "value": "#002957",
+        "type": "color"
+      },
+      "success-00": {
+        "value": "#0a9c5899",
+        "type": "color",
+        "description": "Transparent icon-color for icons representing a success state"
+      },
+      "success-01": {
+        "value": "#0a9c58",
+        "type": "color",
+        "description": "Icon-color for icons representing a success state"
+      },
+      "success-02": {
+        "value": "#066d3d",
+        "type": "color",
+        "description": "Icon-color for icons representing a success state"
+      },
+      "warning-00": {
+        "value": "#fe9e0299",
+        "type": "color",
+        "description": "Transparent icon-color for icons representing a warning state"
+      },
+      "warning-01": {
+        "value": "#fe9e02",
+        "type": "color",
+        "description": "Icon-color for icons representing a warning state"
+      },
+      "warning-02": {
+        "value": "#b16e01",
+        "type": "color",
+        "description": "Icon-color for icons representing a warning state. "
+      }
+    },
+    "link": {
+      "enabled": {
+        "value": "#0054ae",
+        "type": "color",
+        "description": "Hyperlink color"
+      },
+      "hover": {
+        "value": "#003a7a",
+        "type": "color",
+        "description": "Hyperlink hover color"
+      },
+      "visited": {
+        "value": "#0054ae",
+        "type": "color",
+        "description": "visited hyperlink color"
+      }
+    },
+    "support": {
+      "danger": {
+        "value": "#af0020",
+        "type": "color",
+        "description": "danger color. Error or danger state."
+      },
+      "info": {
+        "value": "#0054ae",
+        "type": "color",
+        "description": "Info color. Neutral information color for messages or notifications"
+      },
+      "success": {
+        "value": "#0a9c58",
+        "type": "color",
+        "description": "Success color. Use for success notification "
+      },
+      "warning": {
+        "value": "#fe9e02",
+        "type": "color",
+        "description": "Warning color. Use for alerts and warnings"
+      }
+    },
+    "Elevation": {
+      "1": {
+        "value": "0 1px 3px 0 #47648533 , 0 2px 1px -1px #4764851f , 0 1px 1px 0 #2f517624",
+        "type": "boxShadow"
+      },
+      "2": {
+        "value": "0 1px 5px 0 #47648533 , 0 3px 1px -2px #4764851f , 0 2px 2px 0 #2f517624",
+        "type": "boxShadow"
+      },
+      "3": {
+        "value": "0 1px 8px 0 #47648533 , 0 3px 3px -2px #4764851f , 0 3px 4px 0 #2f517624",
+        "type": "boxShadow"
+      },
+      "4": {
+        "value": "0 2px 4px -1px #47648533 , 0 1px 10px 0 #4764851f , 0 4px 5px 0 #2f517624",
+        "type": "boxShadow"
+      },
+      "5": {
+        "value": "0 1px 18px 0 #47648533 , 0 6px 10px 0 #4764851f , 0 3px 5px -1px #2f517624",
+        "type": "boxShadow"
+      },
+      "6": {
+        "value": "0 3px 14px 2px #47648533 , 0 8px 10px 1px #4764851f , 0 5px 5px -3px #2f517624",
+        "type": "boxShadow"
+      },
+      "7": {
+        "value": "0 5px 6px -3px #47648533 , 0 3px 16px 2px #4764851f , 0 9px 12px 1px #2f517624",
+        "type": "boxShadow"
+      },
+      "8": {
+        "value": "0 4px 18px 3px #47648533 , 0 10px 14px 1px #4764851f , 0 6px 6px -3px #2f517624",
+        "type": "boxShadow"
+      },
+      "9": {
+        "value": "0 5px 22px 4px #47648533 , 0 12px 17px 2px #4764851f , 0 7px 8px -4px #2f517624",
+        "type": "boxShadow"
+      },
+      "10": {
+        "value": "0 8px 10px -5px #47648533 , 0 6px 30px 5px #4764851f , 0 16px 24px 2px #2f517624",
+        "type": "boxShadow"
+      }
+    },
+    "Focus": {
+      "ring": {
+        "value": "0 0 0 4px #0054ae33",
+        "type": "boxShadow"
+      }
+    },
+    "lineHeight": {
+      "xs": {
+        "value": "16px",
+        "type": "lineHeights"
+      },
+      "sm": {
+        "value": "20px",
+        "type": "lineHeights"
+      },
+      "lg": {
+        "value": "36px",
+        "type": "lineHeights"
+      },
+      "base": {
+        "value": "24px",
+        "type": "lineHeights"
+      },
+      "xl": {
+        "value": "32px",
+        "type": "lineHeights"
+      },
+      "2xl": {
+        "value": "40px",
+        "type": "lineHeights"
+      },
+      "3xl": {
+        "value": "48px",
+        "type": "lineHeights"
+      }
+    },
+    "fontWeight": {
+      "light": {
+        "value": "300",
+        "type": "fontWeights"
+      },
+      "regular": {
+        "value": "400",
+        "type": "fontWeights"
+      },
+      "medium": {
+        "value": "500",
+        "type": "fontWeights"
+      }
+    },
+    "fontSize": {
+      "xs": {
+        "value": "12px",
+        "type": "fontSizes"
+      },
+      "sm": {
+        "value": "14px",
+        "type": "fontSizes"
+      },
+      "base": {
+        "value": "16px",
+        "type": "fontSizes"
+      },
+      "lg": {
+        "value": "20px",
+        "type": "fontSizes"
+      },
+      "xl": {
+        "value": "24px",
+        "type": "fontSizes"
+      },
+      "2xl": {
+        "value": "28px",
+        "type": "fontSizes"
+      },
+      "3xl": {
+        "value": "36px",
+        "type": "fontSizes"
+      }
+    },
+    "spacer-0": {
+      "value": "2px",
+      "type": "spacing"
+    },
+    "spacer-1": {
+      "value": "4px",
+      "type": "spacing"
+    },
+    "spacer-2": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "spacer-3": {
+      "value": "12px",
+      "type": "spacing"
+    },
+    "spacer-4": {
+      "value": "16px",
+      "type": "spacing"
+    },
+    "spacer-5": {
+      "value": "24px",
+      "type": "spacing"
+    },
+    "spacer-6": {
+      "value": "32px",
+      "type": "spacing"
+    },
+    "spacer-7": {
+      "value": "40px",
+      "type": "spacing"
+    },
+    "spacer-8": {
+      "value": "48px",
+      "type": "spacing"
+    },
+    "spacer-9": {
+      "value": "64px",
+      "type": "spacing"
+    },
+    "spacer-10": {
+      "value": "96px",
+      "type": "spacing"
+    },
+    "spacer-11": {
+      "value": "160px",
+      "type": "spacing"
+    },
+    "border-radius-1": {
+      "value": "4px",
+      "type": "borderRadius"
+    },
+    "border-radius-2": {
+      "value": "8px",
+      "type": "borderRadius"
+    },
+    "border-radius-3": {
+      "value": "12px",
+      "type": "borderRadius"
+    },
+    "border-radius-4": {
+      "value": "16px",
+      "type": "borderRadius"
+    },
+    "border-radius-5": {
+      "value": "24px",
+      "type": "borderRadius"
+    },
+    "border-radius-full": {
+      "value": "50%",
+      "type": "borderRadius"
+    },
+    "font-family-sans": {
+      "value": "Lexend, sans-serif",
+      "type": "fontFamilies"
+    },
+    "text": {
+      "danger-01": {
+        "value": "#af0020",
+        "type": "color",
+        "description": "text color that representsa danger-state"
+      },
+      "danger-02": {
+        "value": "#7a0016",
+        "type": "color",
+        "description": "Darker text color that representsa danger-state for usage on colored backgrounds"
+      },
+      "disabled": {
+        "value": "#d8d8d8",
+        "type": "color",
+        "description": "Disabled text-color for disabled elements. Remember disabled UI = Bad UI"
+      },
+      "info-01": {
+        "value": "#0054ae",
+        "type": "color",
+        "description": "Text color that represents an info-state "
+      },
+      "info-02": {
+        "value": "#003a7a",
+        "type": "color",
+        "description": "Darker text color that represents an info-state for usage on colored backgrounds"
+      },
+      "on-color": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "White text-color to use on darker backgrounds"
+      },
+      "primary": {
+        "value": "#002957",
+        "type": "color",
+        "description": "Default textcolor"
+      },
+      "secondary": {
+        "value": "#00295799",
+        "type": "color",
+        "description": "Secondary text color. Transparent and usable on coloredbackgrounds"
+      },
+      "secondary-00": {
+        "value": "a3b2c2",
+        "type": "color",
+        "description": "Opaque secondary text color - (date)mask text"
+      },
+      "secondary-01": {
+        "value": "#667e99",
+        "type": "color",
+        "description": "Opaque secondary text color"
+      },
+      "secondary-02": {
+        "value": "#47576b",
+        "type": "color",
+        "description": "Darker secondary text color  for usage on colored backgrounds"
+      },
+      "success-01": {
+        "value": "#0a9c58",
+        "type": "color",
+        "description": "Darker text color that represents a success-state"
+      },
+      "success-02": {
+        "value": "#066d3d",
+        "type": "color",
+        "description": "Darker text color that represents a success-state for usage on colored backgrounds"
+      },
+      "warning-01": {
+        "value": "#fe9e02",
+        "type": "color",
+        "description": "Darker text color that represents a warning-state"
+      },
+      "warning-02": {
+        "value": "#b16e01",
+        "type": "color",
+        "description": "Darker text color that represents a warning-state for usage on colored backgrounds"
+      }
+    },
+    "spacer-none": {
+      "value": "0",
+      "type": "spacing"
+    },
+    "letterSpacing": {
+      "base": {
+        "value": "0",
+        "type": "letterSpacing"
+      },
+      "lg": {
+        "value": "10",
+        "type": "letterSpacing"
+      }
+    },
+    "size": {
+      "2xs": {
+        "value": "56px",
+        "type": "sizing"
+      },
+      "xs": {
+        "value": "80px",
+        "type": "sizing"
+      },
+      "sm": {
+        "value": "120px",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "160px",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "200px",
+        "type": "sizing"
+      },
+      "xl": {
+        "value": "240px",
+        "type": "sizing"
+      },
+      "2xl": {
+        "value": "280px",
+        "type": "sizing"
+      },
+      "3xl": {
+        "value": "320px",
+        "type": "sizing"
+      }
+    },
+    "breakpoint": {
+      "2xl": {
+        "value": "1920px",
+        "type": "other"
+      },
+      "xl": {
+        "value": "1650px",
+        "type": "other"
+      },
+      "lg": {
+        "value": "1440px",
+        "type": "other"
+      },
+      "md": {
+        "value": "1240px",
+        "type": "other"
+      },
+      "sm": {
+        "value": "600px",
+        "type": "other"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": ["mg"]
+  }
+}
