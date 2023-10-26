@@ -1,0 +1,8 @@
+/* Fonts */
+@use url('https://fonts.googleapis.com/css?family=Lexend:300,400,500,600');
+
+/* Design tokens */
+@forward './__generated__/css/index.css';
+
+/* Base styles */
+@forward './base/_index.css';

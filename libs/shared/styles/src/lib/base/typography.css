@@ -1,0 +1,67 @@
+html {
+  font-family: var(--mg-font-family-sans);
+}
+
+body {
+  color: var(--mg-text-primary);
+
+  /* Using the `font` shorthand to support properly overwriting `tkp-ddm-lib` as well */
+  font: var(--mg-font-weight-light) var(--mg-font-size-sm) / var(--mg-line-height-sm) var(--mg-font-family-sans);
+}
+
+
+/* TODO: Dit hoeft waarschijnlijk niet -> geregeld met reset? */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+h1 {
+  font-size: var(--mg-font-size-3xl);
+  font-weight: var(--mg-font-weight-medium);
+  line-height: var(--mg-line-height-3xl);
+}
+
+h2 {
+  font-size: var(--mg-font-size-2xl);
+  font-weight: var(--mg-font-weight-medium);
+  line-height: var(--mg-line-height-2xl);
+}
+
+h3 {
+  font-size: var(--mg-font-size-xl);
+  font-weight: var(--mg-font-weight-medium);
+  line-height: var(--mg-line-height-xl);
+}
+
+h4 {
+  font-size: var(--mg-font-size-lg);
+  font-weight: var(--mg-font-weight-medium);
+  line-height: var(--mg-line-height-lg);
+}
+
+h5 {
+  font-size: var(--mg-font-size-base);
+  font-weight: var(--mg-font-weight-medium);
+  line-height: var(--mg-line-height-base);
+}
+
+h6 {
+  font-size: var(--mg-font-size-sm);
+  font-weight: var(--mg-font-weight-medium);
+  line-height: var(--mg-line-height-sm);
+}
+
+p {
+  line-height: var(--mg-line-height-base);
+}
+
+p small {
+  font-size: var(--mg-font-size-xs);
+  line-height: var(--mg-line-height-sm);
+}
