@@ -6,19 +6,19 @@ const BUILD_PATH = 'src/lib/__generated';
 const myStyleDictionary = StyleDictionary.extend({
   source: ['src/lib/__tokens__/**/adelyn.tokens.json'],
   platforms: {
-    js: {
-      transformGroup: 'js',
-      buildPath: `${BUILD_PATH}/`,
-      files: [
-        {
-          destination: 'tokens.js',
-          format: 'javascript/module',
-        },
-      ],
-      transforms: ['name/cti/camel', 'color/hsl-4'],
-    },
+    // js: {
+    //   transformGroup: 'js',
+    //   buildPath: `${BUILD_PATH}/`,
+    //   files: [
+    //     {
+    //       destination: 'tokens.js',
+    //       format: 'javascript/module',
+    //     },
+    //   ],
+    //   transforms: ['name/cti/camel', 'color/hsl-4'],
+    // },
     css: {
-      transformGroup: 'css/extended',
+      // transformGroup: 'css/extended',
       buildPath: `${BUILD_PATH}/css/`,
       files: [
         {
@@ -26,19 +26,33 @@ const myStyleDictionary = StyleDictionary.extend({
           format: 'css/variables',
         },
       ],
-      // transforms: ['name/cti/kebab', 'color/hsl-4', 'size/pxToRem'],
-    },
-    scss: {
-      transformGroup: 'scss',
-      buildPath: `${BUILD_PATH}/scss/`,
-      files: [
-        {
-          destination: 'index.scss',
-          format: 'scss/variables',
-        },
+      transforms: [
+        'attribute/cti',
+        'name/cti/kebab',
+        'time/seconds',
+        'content/icon',
+        'size/rem',
+        'color/css',
+        'color/rgbAlpha',
+        'shadow/css',
+        'font/css',
+        'fontFamily/css',
+        'fontWeight/number',
+        'cubicBezier/css',
+        'border/css',
       ],
-      transforms: ['name/cti/snake', 'color/hsl-4', 'size/rem'],
     },
+    // scss: {
+    //   transformGroup: 'scss',
+    //   buildPath: `${BUILD_PATH}/scss/`,
+    //   files: [
+    //     {
+    //       destination: 'index.scss',
+    //       format: 'scss/variables',
+    //     },
+    //   ],
+    //   transforms: ['name/cti/snake', 'color/hsl-4', 'size/rem'],
+    // },
   },
 });
 

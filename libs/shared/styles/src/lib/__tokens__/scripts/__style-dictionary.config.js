@@ -17,7 +17,7 @@ module.exports = {
       transforms: ['name/cti/camel', 'color/hsl-4'],
     },
     css: {
-      transformGroup: 'css',
+      transformGroup: 'cssExtended',
       buildPath: `${BUILD_PATH}/css/`,
       files: [
         {

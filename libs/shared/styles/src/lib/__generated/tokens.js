@@ -1,352 +1,10 @@
 /**
  * Do not edit directly
- * Generated on Tue, 24 Oct 2023 19:21:26 GMT
+ * Generated on Thu, 26 Oct 2023 09:36:14 GMT
  */
 
 module.exports = {
-  "heading1": {
-    "type": "typography",
-    "value": {
-      "fontSize": 36,
-      "textDecoration": "none",
-      "fontFamily": "Lexend",
-      "fontWeight": 600,
-      "fontStyle": "normal",
-      "fontStretch": "normal",
-      "letterSpacing": 0,
-      "lineHeight": 48,
-      "paragraphIndent": 0,
-      "paragraphSpacing": 0,
-      "textCase": "none"
-    },
-    "fontSize": {
-      "type": "dimension",
-      "value": 36,
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "textDecoration": {
-      "type": "string",
-      "value": "none",
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "fontFamily": {
-      "type": "string",
-      "value": "Lexend",
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "fontWeight": {
-      "type": "number",
-      "value": 600,
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "fontStyle": {
-      "type": "string",
-      "value": "normal",
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "fontStretch": {
-      "type": "string",
-      "value": "normal",
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "letterSpacing": {
-      "type": "dimension",
-      "value": 0,
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "lineHeight": {
-      "type": "dimension",
-      "value": 48,
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "paragraphIndent": {
-      "type": "dimension",
-      "value": 0,
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "paragraphSpacing": {
-      "type": "dimension",
-      "value": 0,
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "textCase": {
-      "type": "string",
-      "value": "none",
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-    "isSource": true,
-    "original": {
-      "type": "typography",
-      "value": {
-        "fontSize": 36,
-        "textDecoration": "none",
-        "fontFamily": "Lexend",
-        "fontWeight": 600,
-        "fontStyle": "normal",
-        "fontStretch": "normal",
-        "letterSpacing": 0,
-        "lineHeight": 48,
-        "paragraphIndent": 0,
-        "paragraphSpacing": 0,
-        "textCase": "none"
-      },
-      "fontSize": {
-        "type": "dimension",
-        "value": 36,
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      },
-      "textDecoration": {
-        "type": "string",
-        "value": "none",
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      },
-      "fontFamily": {
-        "type": "string",
-        "value": "Lexend",
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      },
-      "fontWeight": {
-        "type": "number",
-        "value": 600,
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      },
-      "fontStyle": {
-        "type": "string",
-        "value": "normal",
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      },
-      "fontStretch": {
-        "type": "string",
-        "value": "normal",
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      },
-      "letterSpacing": {
-        "type": "dimension",
-        "value": 0,
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      },
-      "lineHeight": {
-        "type": "dimension",
-        "value": 48,
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      },
-      "paragraphIndent": {
-        "type": "dimension",
-        "value": 0,
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      },
-      "paragraphSpacing": {
-        "type": "dimension",
-        "value": 0,
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      },
-      "textCase": {
-        "type": "string",
-        "value": "none",
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      }
-    },
-    "name": "heading1",
-    "attributes": {},
-    "path": [
-      "heading1"
-    ]
-  },
-  "heading2": {
-    "type": "typography",
-    "value": {
-      "fontSize": 28,
-      "textDecoration": "none",
-      "fontFamily": "Lexend",
-      "fontWeight": 600,
-      "fontStyle": "normal",
-      "fontStretch": "normal",
-      "letterSpacing": 0,
-      "lineHeight": 32,
-      "paragraphIndent": 0,
-      "paragraphSpacing": 0,
-      "textCase": "none"
-    },
-    "fontSize": {
-      "type": "dimension",
-      "value": 28,
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "textDecoration": {
-      "type": "string",
-      "value": "none",
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "fontFamily": {
-      "type": "string",
-      "value": "Lexend",
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "fontWeight": {
-      "type": "number",
-      "value": 600,
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "fontStyle": {
-      "type": "string",
-      "value": "normal",
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "fontStretch": {
-      "type": "string",
-      "value": "normal",
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "letterSpacing": {
-      "type": "dimension",
-      "value": 0,
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "lineHeight": {
-      "type": "dimension",
-      "value": 32,
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "paragraphIndent": {
-      "type": "dimension",
-      "value": 0,
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "paragraphSpacing": {
-      "type": "dimension",
-      "value": 0,
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "textCase": {
-      "type": "string",
-      "value": "none",
-      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-      "isSource": true
-    },
-    "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-    "isSource": true,
-    "original": {
-      "type": "typography",
-      "value": {
-        "fontSize": 28,
-        "textDecoration": "none",
-        "fontFamily": "Lexend",
-        "fontWeight": 600,
-        "fontStyle": "normal",
-        "fontStretch": "normal",
-        "letterSpacing": 0,
-        "lineHeight": 32,
-        "paragraphIndent": 0,
-        "paragraphSpacing": 0,
-        "textCase": "none"
-      },
-      "fontSize": {
-        "type": "dimension",
-        "value": 28,
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      },
-      "textDecoration": {
-        "type": "string",
-        "value": "none",
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      },
-      "fontFamily": {
-        "type": "string",
-        "value": "Lexend",
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      },
-      "fontWeight": {
-        "type": "number",
-        "value": 600,
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      },
-      "fontStyle": {
-        "type": "string",
-        "value": "normal",
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      },
-      "fontStretch": {
-        "type": "string",
-        "value": "normal",
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      },
-      "letterSpacing": {
-        "type": "dimension",
-        "value": 0,
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      },
-      "lineHeight": {
-        "type": "dimension",
-        "value": 32,
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      },
-      "paragraphIndent": {
-        "type": "dimension",
-        "value": 0,
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      },
-      "paragraphSpacing": {
-        "type": "dimension",
-        "value": 0,
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      },
-      "textCase": {
-        "type": "string",
-        "value": "none",
-        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-        "isSource": true
-      }
-    },
-    "name": "heading2",
-    "attributes": {},
-    "path": [
-      "heading2"
-    ]
-  },
-  "heading3": {
+  "cjib-heading1": {
     "type": "typography",
     "value": {
       "fontSize": 24,
@@ -511,13 +169,13 @@ module.exports = {
         "isSource": true
       }
     },
-    "name": "heading3",
+    "name": "cjibHeading1",
     "attributes": {},
     "path": [
-      "heading3"
+      "cjib-heading1"
     ]
   },
-  "heading4": {
+  "cjib-heading2": {
     "type": "typography",
     "value": {
       "fontSize": 20,
@@ -682,13 +340,13 @@ module.exports = {
         "isSource": true
       }
     },
-    "name": "heading4",
+    "name": "cjibHeading2",
     "attributes": {},
     "path": [
-      "heading4"
+      "cjib-heading2"
     ]
   },
-  "heading5": {
+  "cjib-heading3": {
     "type": "typography",
     "value": {
       "fontSize": 16,
@@ -853,13 +511,13 @@ module.exports = {
         "isSource": true
       }
     },
-    "name": "heading5",
+    "name": "cjibHeading3",
     "attributes": {},
     "path": [
-      "heading5"
+      "cjib-heading3"
     ]
   },
-  "heading6": {
+  "cjib-heading4": {
     "type": "typography",
     "value": {
       "fontSize": 14,
@@ -1024,13 +682,355 @@ module.exports = {
         "isSource": true
       }
     },
-    "name": "heading6",
+    "name": "cjibHeading4",
     "attributes": {},
     "path": [
-      "heading6"
+      "cjib-heading4"
     ]
   },
-  "body1": {
+  "cjib-subtitle1": {
+    "type": "typography",
+    "value": {
+      "fontSize": 16,
+      "textDecoration": "none",
+      "fontFamily": "Lexend",
+      "fontWeight": 600,
+      "fontStyle": "normal",
+      "fontStretch": "normal",
+      "letterSpacing": 0,
+      "lineHeight": 24,
+      "paragraphIndent": 0,
+      "paragraphSpacing": 0,
+      "textCase": "none"
+    },
+    "fontSize": {
+      "type": "dimension",
+      "value": 16,
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "textDecoration": {
+      "type": "string",
+      "value": "none",
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "fontFamily": {
+      "type": "string",
+      "value": "Lexend",
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "fontWeight": {
+      "type": "number",
+      "value": 600,
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "fontStyle": {
+      "type": "string",
+      "value": "normal",
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "fontStretch": {
+      "type": "string",
+      "value": "normal",
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "letterSpacing": {
+      "type": "dimension",
+      "value": 0,
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "lineHeight": {
+      "type": "dimension",
+      "value": 24,
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "paragraphIndent": {
+      "type": "dimension",
+      "value": 0,
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "paragraphSpacing": {
+      "type": "dimension",
+      "value": 0,
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "textCase": {
+      "type": "string",
+      "value": "none",
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+    "isSource": true,
+    "original": {
+      "type": "typography",
+      "value": {
+        "fontSize": 16,
+        "textDecoration": "none",
+        "fontFamily": "Lexend",
+        "fontWeight": 600,
+        "fontStyle": "normal",
+        "fontStretch": "normal",
+        "letterSpacing": 0,
+        "lineHeight": 24,
+        "paragraphIndent": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none"
+      },
+      "fontSize": {
+        "type": "dimension",
+        "value": 16,
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      },
+      "textDecoration": {
+        "type": "string",
+        "value": "none",
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      },
+      "fontFamily": {
+        "type": "string",
+        "value": "Lexend",
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      },
+      "fontWeight": {
+        "type": "number",
+        "value": 600,
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      },
+      "fontStyle": {
+        "type": "string",
+        "value": "normal",
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      },
+      "fontStretch": {
+        "type": "string",
+        "value": "normal",
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      },
+      "letterSpacing": {
+        "type": "dimension",
+        "value": 0,
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      },
+      "lineHeight": {
+        "type": "dimension",
+        "value": 24,
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      },
+      "paragraphIndent": {
+        "type": "dimension",
+        "value": 0,
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      },
+      "paragraphSpacing": {
+        "type": "dimension",
+        "value": 0,
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      },
+      "textCase": {
+        "type": "string",
+        "value": "none",
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      }
+    },
+    "name": "cjibSubtitle1",
+    "attributes": {},
+    "path": [
+      "cjib-subtitle1"
+    ]
+  },
+  "cjib-subtitle2": {
+    "type": "typography",
+    "value": {
+      "fontSize": 14,
+      "textDecoration": "none",
+      "fontFamily": "Lexend",
+      "fontWeight": 600,
+      "fontStyle": "normal",
+      "fontStretch": "normal",
+      "letterSpacing": 0,
+      "lineHeight": 20,
+      "paragraphIndent": 0,
+      "paragraphSpacing": 0,
+      "textCase": "none"
+    },
+    "fontSize": {
+      "type": "dimension",
+      "value": 14,
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "textDecoration": {
+      "type": "string",
+      "value": "none",
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "fontFamily": {
+      "type": "string",
+      "value": "Lexend",
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "fontWeight": {
+      "type": "number",
+      "value": 600,
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "fontStyle": {
+      "type": "string",
+      "value": "normal",
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "fontStretch": {
+      "type": "string",
+      "value": "normal",
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "letterSpacing": {
+      "type": "dimension",
+      "value": 0,
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "lineHeight": {
+      "type": "dimension",
+      "value": 20,
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "paragraphIndent": {
+      "type": "dimension",
+      "value": 0,
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "paragraphSpacing": {
+      "type": "dimension",
+      "value": 0,
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "textCase": {
+      "type": "string",
+      "value": "none",
+      "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+      "isSource": true
+    },
+    "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+    "isSource": true,
+    "original": {
+      "type": "typography",
+      "value": {
+        "fontSize": 14,
+        "textDecoration": "none",
+        "fontFamily": "Lexend",
+        "fontWeight": 600,
+        "fontStyle": "normal",
+        "fontStretch": "normal",
+        "letterSpacing": 0,
+        "lineHeight": 20,
+        "paragraphIndent": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none"
+      },
+      "fontSize": {
+        "type": "dimension",
+        "value": 14,
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      },
+      "textDecoration": {
+        "type": "string",
+        "value": "none",
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      },
+      "fontFamily": {
+        "type": "string",
+        "value": "Lexend",
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      },
+      "fontWeight": {
+        "type": "number",
+        "value": 600,
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      },
+      "fontStyle": {
+        "type": "string",
+        "value": "normal",
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      },
+      "fontStretch": {
+        "type": "string",
+        "value": "normal",
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      },
+      "letterSpacing": {
+        "type": "dimension",
+        "value": 0,
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      },
+      "lineHeight": {
+        "type": "dimension",
+        "value": 20,
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      },
+      "paragraphIndent": {
+        "type": "dimension",
+        "value": 0,
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      },
+      "paragraphSpacing": {
+        "type": "dimension",
+        "value": 0,
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      },
+      "textCase": {
+        "type": "string",
+        "value": "none",
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true
+      }
+    },
+    "name": "cjibSubtitle2",
+    "attributes": {},
+    "path": [
+      "cjib-subtitle2"
+    ]
+  },
+  "cjib-body1": {
     "type": "typography",
     "value": {
       "fontSize": 16,
@@ -1195,13 +1195,13 @@ module.exports = {
         "isSource": true
       }
     },
-    "name": "body1",
+    "name": "cjibBody1",
     "attributes": {},
     "path": [
-      "body1"
+      "cjib-body1"
     ]
   },
-  "body2": {
+  "cjib-body2": {
     "type": "typography",
     "value": {
       "fontSize": 14,
@@ -1366,13 +1366,13 @@ module.exports = {
         "isSource": true
       }
     },
-    "name": "body2",
+    "name": "cjibBody2",
     "attributes": {},
     "path": [
-      "body2"
+      "cjib-body2"
     ]
   },
-  "button": {
+  "cjib-button": {
     "type": "typography",
     "value": {
       "fontSize": 16,
@@ -1537,13 +1537,13 @@ module.exports = {
         "isSource": true
       }
     },
-    "name": "button",
+    "name": "cjibButton",
     "attributes": {},
     "path": [
-      "button"
+      "cjib-button"
     ]
   },
-  "caption": {
+  "cjib-caption": {
     "type": "typography",
     "value": {
       "fontSize": 12,
@@ -1708,13 +1708,13 @@ module.exports = {
         "isSource": true
       }
     },
-    "name": "caption",
+    "name": "cjibCaption",
     "attributes": {},
     "path": [
-      "caption"
+      "cjib-caption"
     ]
   },
-  "elevation-1": {
+  "cjib-elevation-1": {
     "0": {
       "type": "shadow",
       "value": {
@@ -1738,10 +1738,10 @@ module.exports = {
           "spread": 0
         }
       },
-      "name": "elevation10",
+      "name": "cjibElevation10",
       "attributes": {},
       "path": [
-        "elevation-1",
+        "cjib-elevation-1",
         "0"
       ]
     },
@@ -1768,10 +1768,10 @@ module.exports = {
           "spread": 0
         }
       },
-      "name": "elevation11",
+      "name": "cjibElevation11",
       "attributes": {},
       "path": [
-        "elevation-1",
+        "cjib-elevation-1",
         "1"
       ]
     },
@@ -1798,16 +1798,16 @@ module.exports = {
           "spread": 0
         }
       },
-      "name": "elevation12",
+      "name": "cjibElevation12",
       "attributes": {},
       "path": [
-        "elevation-1",
+        "cjib-elevation-1",
         "2"
       ]
     },
     "comment": null
   },
-  "elevation-2": {
+  "cjib-elevation-2": {
     "0": {
       "type": "shadow",
       "value": {
@@ -1831,10 +1831,10 @@ module.exports = {
           "spread": 0
         }
       },
-      "name": "elevation20",
+      "name": "cjibElevation20",
       "attributes": {},
       "path": [
-        "elevation-2",
+        "cjib-elevation-2",
         "0"
       ]
     },
@@ -1861,10 +1861,10 @@ module.exports = {
           "spread": 0
         }
       },
-      "name": "elevation21",
+      "name": "cjibElevation21",
       "attributes": {},
       "path": [
-        "elevation-2",
+        "cjib-elevation-2",
         "1"
       ]
     },
@@ -1891,16 +1891,16 @@ module.exports = {
           "spread": 0
         }
       },
-      "name": "elevation22",
+      "name": "cjibElevation22",
       "attributes": {},
       "path": [
-        "elevation-2",
+        "cjib-elevation-2",
         "2"
       ]
     },
     "comment": null
   },
-  "elevation-3": {
+  "cjib-elevation-3": {
     "0": {
       "type": "shadow",
       "value": {
@@ -1924,10 +1924,10 @@ module.exports = {
           "spread": 0
         }
       },
-      "name": "elevation30",
+      "name": "cjibElevation30",
       "attributes": {},
       "path": [
-        "elevation-3",
+        "cjib-elevation-3",
         "0"
       ]
     },
@@ -1954,10 +1954,10 @@ module.exports = {
           "spread": 0
         }
       },
-      "name": "elevation31",
+      "name": "cjibElevation31",
       "attributes": {},
       "path": [
-        "elevation-3",
+        "cjib-elevation-3",
         "1"
       ]
     },
@@ -1984,16 +1984,16 @@ module.exports = {
           "spread": 0
         }
       },
-      "name": "elevation32",
+      "name": "cjibElevation32",
       "attributes": {},
       "path": [
-        "elevation-3",
+        "cjib-elevation-3",
         "2"
       ]
     },
     "comment": null
   },
-  "elevation-4": {
+  "cjib-elevation-4": {
     "0": {
       "type": "shadow",
       "value": {
@@ -2017,10 +2017,10 @@ module.exports = {
           "spread": 0
         }
       },
-      "name": "elevation40",
+      "name": "cjibElevation40",
       "attributes": {},
       "path": [
-        "elevation-4",
+        "cjib-elevation-4",
         "0"
       ]
     },
@@ -2047,10 +2047,10 @@ module.exports = {
           "spread": 0
         }
       },
-      "name": "elevation41",
+      "name": "cjibElevation41",
       "attributes": {},
       "path": [
-        "elevation-4",
+        "cjib-elevation-4",
         "1"
       ]
     },
@@ -2077,16 +2077,16 @@ module.exports = {
           "spread": 0
         }
       },
-      "name": "elevation42",
+      "name": "cjibElevation42",
       "attributes": {},
       "path": [
-        "elevation-4",
+        "cjib-elevation-4",
         "2"
       ]
     },
     "comment": null
   },
-  "elevation-5": {
+  "cjib-elevation-5": {
     "0": {
       "type": "shadow",
       "value": {
@@ -2110,10 +2110,10 @@ module.exports = {
           "spread": 0
         }
       },
-      "name": "elevation50",
+      "name": "cjibElevation50",
       "attributes": {},
       "path": [
-        "elevation-5",
+        "cjib-elevation-5",
         "0"
       ]
     },
@@ -2140,10 +2140,10 @@ module.exports = {
           "spread": 0
         }
       },
-      "name": "elevation51",
+      "name": "cjibElevation51",
       "attributes": {},
       "path": [
-        "elevation-5",
+        "cjib-elevation-5",
         "1"
       ]
     },
@@ -2170,16 +2170,16 @@ module.exports = {
           "spread": 0
         }
       },
-      "name": "elevation52",
+      "name": "cjibElevation52",
       "attributes": {},
       "path": [
-        "elevation-5",
+        "cjib-elevation-5",
         "2"
       ]
     },
     "comment": null
   },
-  "elevation-6": {
+  "cjib-elevation-6": {
     "0": {
       "type": "shadow",
       "value": {
@@ -2203,10 +2203,10 @@ module.exports = {
           "spread": 0
         }
       },
-      "name": "elevation60",
+      "name": "cjibElevation60",
       "attributes": {},
       "path": [
-        "elevation-6",
+        "cjib-elevation-6",
         "0"
       ]
     },
@@ -2233,10 +2233,10 @@ module.exports = {
           "spread": 3
         }
       },
-      "name": "elevation61",
+      "name": "cjibElevation61",
       "attributes": {},
       "path": [
-        "elevation-6",
+        "cjib-elevation-6",
         "1"
       ]
     },
@@ -2263,16 +2263,16 @@ module.exports = {
           "spread": 1
         }
       },
-      "name": "elevation62",
+      "name": "cjibElevation62",
       "attributes": {},
       "path": [
-        "elevation-6",
+        "cjib-elevation-6",
         "2"
       ]
     },
     "comment": null
   },
-  "elevation-7": {
+  "cjib-elevation-7": {
     "0": {
       "type": "shadow",
       "value": {
@@ -2296,10 +2296,10 @@ module.exports = {
           "spread": 0
         }
       },
-      "name": "elevation70",
+      "name": "cjibElevation70",
       "attributes": {},
       "path": [
-        "elevation-7",
+        "cjib-elevation-7",
         "0"
       ]
     },
@@ -2326,10 +2326,10 @@ module.exports = {
           "spread": 2
         }
       },
-      "name": "elevation71",
+      "name": "cjibElevation71",
       "attributes": {},
       "path": [
-        "elevation-7",
+        "cjib-elevation-7",
         "1"
       ]
     },
@@ -2356,16 +2356,16 @@ module.exports = {
           "spread": 1
         }
       },
-      "name": "elevation72",
+      "name": "cjibElevation72",
       "attributes": {},
       "path": [
-        "elevation-7",
+        "cjib-elevation-7",
         "2"
       ]
     },
     "comment": null
   },
-  "elevation-8": {
+  "cjib-elevation-8": {
     "0": {
       "type": "shadow",
       "value": {
@@ -2389,10 +2389,10 @@ module.exports = {
           "spread": 0
         }
       },
-      "name": "elevation80",
+      "name": "cjibElevation80",
       "attributes": {},
       "path": [
-        "elevation-8",
+        "cjib-elevation-8",
         "0"
       ]
     },
@@ -2419,10 +2419,10 @@ module.exports = {
           "spread": 4
         }
       },
-      "name": "elevation81",
+      "name": "cjibElevation81",
       "attributes": {},
       "path": [
-        "elevation-8",
+        "cjib-elevation-8",
         "1"
       ]
     },
@@ -2449,16 +2449,16 @@ module.exports = {
           "spread": 2
         }
       },
-      "name": "elevation82",
+      "name": "cjibElevation82",
       "attributes": {},
       "path": [
-        "elevation-8",
+        "cjib-elevation-8",
         "2"
       ]
     },
     "comment": null
   },
-  "elevation-9": {
+  "cjib-elevation-9": {
     "0": {
       "type": "shadow",
       "value": {
@@ -2482,10 +2482,10 @@ module.exports = {
           "spread": 0
         }
       },
-      "name": "elevation90",
+      "name": "cjibElevation90",
       "attributes": {},
       "path": [
-        "elevation-9",
+        "cjib-elevation-9",
         "0"
       ]
     },
@@ -2512,10 +2512,10 @@ module.exports = {
           "spread": 5
         }
       },
-      "name": "elevation91",
+      "name": "cjibElevation91",
       "attributes": {},
       "path": [
-        "elevation-9",
+        "cjib-elevation-9",
         "1"
       ]
     },
@@ -2542,16 +2542,16 @@ module.exports = {
           "spread": 2
         }
       },
-      "name": "elevation92",
+      "name": "cjibElevation92",
       "attributes": {},
       "path": [
-        "elevation-9",
+        "cjib-elevation-9",
         "2"
       ]
     },
     "comment": null
   },
-  "elevation-10": {
+  "cjib-elevation-10": {
     "0": {
       "type": "shadow",
       "value": {
@@ -2575,10 +2575,10 @@ module.exports = {
           "spread": 0
         }
       },
-      "name": "elevation100",
+      "name": "cjibElevation100",
       "attributes": {},
       "path": [
-        "elevation-10",
+        "cjib-elevation-10",
         "0"
       ]
     },
@@ -2605,10 +2605,10 @@ module.exports = {
           "spread": 8
         }
       },
-      "name": "elevation101",
+      "name": "cjibElevation101",
       "attributes": {},
       "path": [
-        "elevation-10",
+        "cjib-elevation-10",
         "1"
       ]
     },
@@ -2635,31 +2635,31 @@ module.exports = {
           "spread": 3
         }
       },
-      "name": "elevation102",
+      "name": "cjibElevation102",
       "attributes": {},
       "path": [
-        "elevation-10",
+        "cjib-elevation-10",
         "2"
       ]
     },
     "comment": null
   },
-  "color": {
+  "cjib-color": {
     "light": {
       "surface": {
         "background-from": {
           "type": "color",
-          "value": "#242c37ff",
+          "value": "#09090bff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.surface.background-from}"
+            "value": "{cjib-color.dark._base - colors.mapping.surface.background-from}"
           },
-          "name": "colorLightSurfaceBackgroundFrom",
+          "name": "cjibColorLightSurfaceBackgroundFrom",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "surface",
             "background-from"
@@ -2667,17 +2667,17 @@ module.exports = {
         },
         "card": {
           "type": "color",
-          "value": "#000000ff",
+          "value": "#18181bff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.surface.card}"
+            "value": "{cjib-color.dark._base - colors.mapping.surface.component-bg}"
           },
-          "name": "colorLightSurfaceCard",
+          "name": "cjibColorLightSurfaceCard",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "surface",
             "card"
@@ -2685,17 +2685,17 @@ module.exports = {
         },
         "alternate": {
           "type": "color",
-          "value": "#eff0f3ff",
+          "value": "#09090bff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.surface.neutral-00}"
+            "value": "{cjib-color.dark._base - colors.mapping.surface.neutral-00}"
           },
-          "name": "colorLightSurfaceAlternate",
+          "name": "cjibColorLightSurfaceAlternate",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "surface",
             "alternate"
@@ -2703,17 +2703,17 @@ module.exports = {
         },
         "header": {
           "type": "color",
-          "value": "#dee2e8ff",
+          "value": "#27272aff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.surface.neutral-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.surface.neutral-01}"
           },
-          "name": "colorLightSurfaceHeader",
+          "name": "cjibColorLightSurfaceHeader",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "surface",
             "header"
@@ -2721,17 +2721,17 @@ module.exports = {
         },
         "info": {
           "type": "color",
-          "value": "#cce5f4ff",
+          "value": "#003150ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.surface.info-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.surface.info-00}"
           },
-          "name": "colorLightSurfaceInfo",
+          "name": "cjibColorLightSurfaceInfo",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "surface",
             "info"
@@ -2739,17 +2739,17 @@ module.exports = {
         },
         "success": {
           "type": "color",
-          "value": "#ceebdeff",
+          "value": "#022c22ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.surface.success-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.surface.success-00}"
           },
-          "name": "colorLightSurfaceSuccess",
+          "name": "cjibColorLightSurfaceSuccess",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "surface",
             "success"
@@ -2757,17 +2757,17 @@ module.exports = {
         },
         "warning": {
           "type": "color",
-          "value": "#ffecccff",
+          "value": "#451a03ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.surface.warning-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.surface.warning-00}"
           },
-          "name": "colorLightSurfaceWarning",
+          "name": "cjibColorLightSurfaceWarning",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "surface",
             "warning"
@@ -2775,17 +2775,17 @@ module.exports = {
         },
         "danger": {
           "type": "color",
-          "value": "#efccd2ff",
+          "value": "#450a0aff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.surface.danger-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.surface.danger-00}"
           },
-          "name": "colorLightSurfaceDanger",
+          "name": "cjibColorLightSurfaceDanger",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "surface",
             "danger"
@@ -2793,17 +2793,17 @@ module.exports = {
         },
         "background-to": {
           "type": "color",
-          "value": "#000000ff",
+          "value": "#18181bff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.surface.background-to}"
+            "value": "{cjib-color.dark._base - colors.mapping.surface.background-to}"
           },
-          "name": "colorLightSurfaceBackgroundTo",
+          "name": "cjibColorLightSurfaceBackgroundTo",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "surface",
             "background-to"
@@ -2811,20 +2811,38 @@ module.exports = {
         },
         "input": {
           "type": "color",
-          "value": "#242c37ff",
+          "value": "#18181bff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.surface.input}"
+            "value": "{cjib-color.dark._base - colors.mapping.surface.input-bg}"
           },
-          "name": "colorLightSurfaceInput",
+          "name": "cjibColorLightSurfaceInput",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "surface",
             "input"
+          ]
+        },
+        "neutral": {
+          "type": "color",
+          "value": "#09090bff",
+          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+          "isSource": true,
+          "original": {
+            "type": "color",
+            "value": "{cjib-color.dark._base - colors.mapping.surface.neutral-00}"
+          },
+          "name": "cjibColorLightSurfaceNeutral",
+          "attributes": {},
+          "path": [
+            "cjib-color",
+            "light",
+            "surface",
+            "neutral"
           ]
         }
       },
@@ -2836,12 +2854,12 @@ module.exports = {
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.text.on-color}"
+            "value": "{cjib-color.dark._base - colors.mapping.text.on-color}"
           },
-          "name": "colorLightTextOnColor",
+          "name": "cjibColorLightTextOnColor",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "text",
             "on-color"
@@ -2849,17 +2867,17 @@ module.exports = {
         },
         "base": {
           "type": "color",
-          "value": "#dee2e8ff",
+          "value": "#f1f5f9ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.text.base}"
+            "value": "{cjib-color.dark._base - colors.mapping.text.base}"
           },
-          "name": "colorLightTextBase",
+          "name": "cjibColorLightTextBase",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "text",
             "base"
@@ -2867,17 +2885,17 @@ module.exports = {
         },
         "danger": {
           "type": "color",
-          "value": "#7b0016ff",
+          "value": "#991b1bff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.danger-02}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.danger-02}"
           },
-          "name": "colorLightTextDanger",
+          "name": "cjibColorLightTextDanger",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "text",
             "danger"
@@ -2890,12 +2908,12 @@ module.exports = {
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.info-02}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.info-02}"
           },
-          "name": "colorLightTextInfo",
+          "name": "cjibColorLightTextInfo",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "text",
             "info"
@@ -2903,17 +2921,17 @@ module.exports = {
         },
         "success": {
           "type": "color",
-          "value": "#076d3eff",
+          "value": "#065f46ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.success-02}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.success-02}"
           },
-          "name": "colorLightTextSuccess",
+          "name": "cjibColorLightTextSuccess",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "text",
             "success"
@@ -2921,17 +2939,17 @@ module.exports = {
         },
         "warning": {
           "type": "color",
-          "value": "#b26f01ff",
+          "value": "#92400eff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.warning-02}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.warning-02}"
           },
-          "name": "colorLightTextWarning",
+          "name": "cjibColorLightTextWarning",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "text",
             "warning"
@@ -2944,12 +2962,12 @@ module.exports = {
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.info-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.info-01}"
           },
-          "name": "colorLightTextLink",
+          "name": "cjibColorLightTextLink",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "text",
             "link"
@@ -2957,17 +2975,17 @@ module.exports = {
         },
         "secondary": {
           "type": "color",
-          "value": "#8c99adff",
+          "value": "#94a3b8ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.text.secondary}"
+            "value": "{cjib-color.dark._base - colors.mapping.text.secondary}"
           },
-          "name": "colorLightTextSecondary",
+          "name": "cjibColorLightTextSecondary",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "text",
             "secondary"
@@ -2984,30 +3002,48 @@ module.exports = {
             "value": "#5b6e8a80",
             "blendMode": "normal"
           },
-          "name": "colorLightTextLowEmphasis",
+          "name": "cjibColorLightTextLowEmphasis",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "text",
             "low-emphasis"
+          ]
+        },
+        "neutral": {
+          "type": "color",
+          "value": "#1e293bff",
+          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+          "isSource": true,
+          "original": {
+            "type": "color",
+            "value": "{cjib-color.dark._base - colors.mapping.alert.neutral-02}"
+          },
+          "name": "cjibColorLightTextNeutral",
+          "attributes": {},
+          "path": [
+            "cjib-color",
+            "light",
+            "text",
+            "neutral"
           ]
         }
       },
       "button": {
         "primary": {
           "type": "color",
-          "value": "#007bc7ff",
+          "value": "#66b0ddff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.interaction.primary-40}"
+            "value": "{cjib-color.dark._base - colors.mapping.interaction.primary-40}"
           },
-          "name": "colorLightButtonPrimary",
+          "name": "cjibColorLightButtonPrimary",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "button",
             "primary"
@@ -3015,17 +3051,17 @@ module.exports = {
         },
         "secondary": {
           "type": "color",
-          "value": "#bdc5d0ff",
+          "value": "#94a3b8ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.interaction.secondary-40}"
+            "value": "{cjib-color.dark._base - colors.mapping.interaction.secondary-40}"
           },
-          "name": "colorLightButtonSecondary",
+          "name": "cjibColorLightButtonSecondary",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "button",
             "secondary"
@@ -3033,17 +3069,17 @@ module.exports = {
         },
         "danger": {
           "type": "color",
-          "value": "#af0020ff",
+          "value": "#b91c1cff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.danger-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.danger-01}"
           },
-          "name": "colorLightButtonDanger",
+          "name": "cjibColorLightButtonDanger",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "button",
             "danger"
@@ -3051,17 +3087,17 @@ module.exports = {
         },
         "success": {
           "type": "color",
-          "value": "#0a9c58ff",
+          "value": "#047857ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.success-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.success-01}"
           },
-          "name": "colorLightButtonSuccess",
+          "name": "cjibColorLightButtonSuccess",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "button",
             "success"
@@ -3069,17 +3105,17 @@ module.exports = {
         },
         "warning": {
           "type": "color",
-          "value": "#fe9e02ff",
+          "value": "#b45309ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.warning-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.warning-01}"
           },
-          "name": "colorLightButtonWarning",
+          "name": "cjibColorLightButtonWarning",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "button",
             "warning"
@@ -3089,17 +3125,19 @@ module.exports = {
       "border": {
         "divider": {
           "type": "color",
-          "value": "#5b6e8aff",
+          "value": "#47556933",
+          "blendMode": "normal",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.border.border-02}"
+            "value": "#47556933",
+            "blendMode": "normal"
           },
-          "name": "colorLightBorderDivider",
+          "name": "cjibColorLightBorderDivider",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "border",
             "divider"
@@ -3107,20 +3145,120 @@ module.exports = {
         },
         "border": {
           "type": "color",
-          "value": "#242c37ff",
+          "value": "#1e293bff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.border.border-00}"
+            "value": "{cjib-color.dark._base - colors.mapping.border.border-00}"
           },
-          "name": "colorLightBorderBorder",
+          "name": "cjibColorLightBorderBorder",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "border",
             "border"
+          ]
+        },
+        "neutral20": {
+          "type": "color",
+          "value": "#33415533",
+          "blendMode": "normal",
+          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+          "isSource": true,
+          "original": {
+            "type": "color",
+            "value": "#33415533",
+            "blendMode": "normal"
+          },
+          "name": "cjibColorLightBorderNeutral20",
+          "attributes": {},
+          "path": [
+            "cjib-color",
+            "light",
+            "border",
+            "neutral20"
+          ]
+        },
+        "warning20": {
+          "type": "color",
+          "value": "#b4530933",
+          "blendMode": "normal",
+          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+          "isSource": true,
+          "original": {
+            "type": "color",
+            "value": "#b4530933",
+            "blendMode": "normal"
+          },
+          "name": "cjibColorLightBorderWarning20",
+          "attributes": {},
+          "path": [
+            "cjib-color",
+            "light",
+            "border",
+            "warning20"
+          ]
+        },
+        "danger20": {
+          "type": "color",
+          "value": "#b91c1c33",
+          "blendMode": "normal",
+          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+          "isSource": true,
+          "original": {
+            "type": "color",
+            "value": "#b91c1c33",
+            "blendMode": "normal"
+          },
+          "name": "cjibColorLightBorderDanger20",
+          "attributes": {},
+          "path": [
+            "cjib-color",
+            "light",
+            "border",
+            "danger20"
+          ]
+        },
+        "success20": {
+          "type": "color",
+          "value": "#04785733",
+          "blendMode": "normal",
+          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+          "isSource": true,
+          "original": {
+            "type": "color",
+            "value": "#04785733",
+            "blendMode": "normal"
+          },
+          "name": "cjibColorLightBorderSuccess20",
+          "attributes": {},
+          "path": [
+            "cjib-color",
+            "light",
+            "border",
+            "success20"
+          ]
+        },
+        "info20": {
+          "type": "color",
+          "value": "#007bc733",
+          "blendMode": "normal",
+          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+          "isSource": true,
+          "original": {
+            "type": "color",
+            "value": "#007bc733",
+            "blendMode": "normal"
+          },
+          "name": "cjibColorLightBorderInfo20",
+          "attributes": {},
+          "path": [
+            "cjib-color",
+            "light",
+            "border",
+            "info20"
           ]
         }
       },
@@ -3132,12 +3270,12 @@ module.exports = {
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.interaction.on-color}"
+            "value": "{cjib-color.dark._base - colors.mapping.interaction.on-color}"
           },
-          "name": "colorLightIconOnColor",
+          "name": "cjibColorLightIconOnColor",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "icon",
             "on-color"
@@ -3145,17 +3283,17 @@ module.exports = {
         },
         "base": {
           "type": "color",
-          "value": "#bdc5d0ff",
+          "value": "#cbd5e180",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.interaction.secondary-40}"
+            "value": "{cjib-color.dark._base - colors.mapping.interaction.medium-emphasis}"
           },
-          "name": "colorLightIconBase",
+          "name": "cjibColorLightIconBase",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "icon",
             "base"
@@ -3163,17 +3301,17 @@ module.exports = {
         },
         "danger": {
           "type": "color",
-          "value": "#af0020ff",
+          "value": "#b91c1cff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.danger-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.danger-01}"
           },
-          "name": "colorLightIconDanger",
+          "name": "cjibColorLightIconDanger",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "icon",
             "danger"
@@ -3186,12 +3324,12 @@ module.exports = {
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.info-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.info-01}"
           },
-          "name": "colorLightIconInfo",
+          "name": "cjibColorLightIconInfo",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "icon",
             "info"
@@ -3199,17 +3337,17 @@ module.exports = {
         },
         "success": {
           "type": "color",
-          "value": "#0a9c58ff",
+          "value": "#047857ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.success-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.success-01}"
           },
-          "name": "colorLightIconSuccess",
+          "name": "cjibColorLightIconSuccess",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "icon",
             "success"
@@ -3217,17 +3355,17 @@ module.exports = {
         },
         "warning": {
           "type": "color",
-          "value": "#fe9e02ff",
+          "value": "#b45309ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.warning-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.warning-01}"
           },
-          "name": "colorLightIconWarning",
+          "name": "cjibColorLightIconWarning",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "icon",
             "warning"
@@ -3239,17 +3377,17 @@ module.exports = {
           "border": {
             "border-00": {
               "type": "color",
-              "value": "#bdc5d0ff",
+              "value": "#e2e8f0ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.80}"
+                "value": "{cjib-color.dark._base - colors.ramps.slate.200}"
               },
-              "name": "colorLightBaseColorsMappingBorderBorder00",
+              "name": "cjibColorLightBaseColorsMappingBorderBorder00",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3259,17 +3397,17 @@ module.exports = {
             },
             "border-01": {
               "type": "color",
-              "value": "#9da8b9ff",
+              "value": "#94a3b8ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.70}"
+                "value": "{cjib-color.dark._base - colors.ramps.slate.400}"
               },
-              "name": "colorLightBaseColorsMappingBorderBorder01",
+              "name": "cjibColorLightBaseColorsMappingBorderBorder01",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3279,17 +3417,17 @@ module.exports = {
             },
             "border-02": {
               "type": "color",
-              "value": "#5b6e8aff",
+              "value": "#475569ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.slate.600}"
               },
-              "name": "colorLightBaseColorsMappingBorderBorder02",
+              "name": "cjibColorLightBaseColorsMappingBorderBorder02",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3306,12 +3444,12 @@ module.exports = {
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.ro - hemelblauw.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.ro - hemelblauw.700}"
               },
-              "name": "colorLightBaseColorsMappingInteractionPrimary40",
+              "name": "cjibColorLightBaseColorsMappingInteractionPrimary40",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3321,17 +3459,17 @@ module.exports = {
             },
             "secondary-40": {
               "type": "color",
-              "value": "#5b6e8aff",
+              "value": "#475569ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.slate.600}"
               },
-              "name": "colorLightBaseColorsMappingInteractionSecondary40",
+              "name": "cjibColorLightBaseColorsMappingInteractionSecondary40",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3346,34 +3484,56 @@ module.exports = {
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.white}"
+                "value": "{cjib-color.dark._base - colors.white}"
               },
-              "name": "colorLightBaseColorsMappingInteractionOnColor",
+              "name": "cjibColorLightBaseColorsMappingInteractionOnColor",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
                 "interaction",
                 "on-color"
               ]
+            },
+            "medium-emphasis": {
+              "type": "color",
+              "value": "#33415580",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#33415580",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsMappingInteractionMediumEmphasis",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "mapping",
+                "interaction",
+                "medium-emphasis"
+              ]
             }
           },
           "surface": {
             "app": {
               "type": "color",
-              "value": "#eff0f3ff",
+              "value": "#f1f5f9ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.95}"
+                "value": "{cjib-color.dark._base - colors.ramps.slate.100}"
               },
-              "name": "colorLightBaseColorsMappingSurfaceApp",
+              "name": "cjibColorLightBaseColorsMappingSurfaceApp",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3381,39 +3541,39 @@ module.exports = {
                 "app"
               ]
             },
-            "card": {
+            "component-bg": {
               "type": "color",
               "value": "#ffffffff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.white}"
+                "value": "{cjib-color.dark._base - colors.white}"
               },
-              "name": "colorLightBaseColorsMappingSurfaceCard",
+              "name": "cjibColorLightBaseColorsMappingSurfaceComponentBg",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
                 "surface",
-                "card"
+                "component-bg"
               ]
             },
             "success-00": {
               "type": "color",
-              "value": "#e6f5eeff",
+              "value": "#ecfdf5ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.jade.95}"
+                "value": "{cjib-color.dark._base - colors.ramps.emerald.50}"
               },
-              "name": "colorLightBaseColorsMappingSurfaceSuccess00",
+              "name": "cjibColorLightBaseColorsMappingSurfaceSuccess00",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3423,17 +3583,17 @@ module.exports = {
             },
             "success-01": {
               "type": "color",
-              "value": "#ceebdeff",
+              "value": "#d1fae5ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.jade.90}"
+                "value": "{cjib-color.dark._base - colors.ramps.emerald.100}"
               },
-              "name": "colorLightBaseColorsMappingSurfaceSuccess01",
+              "name": "cjibColorLightBaseColorsMappingSurfaceSuccess01",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3443,17 +3603,17 @@ module.exports = {
             },
             "success-10": {
               "type": "color",
-              "value": "#0a9c58ff",
+              "value": "#047857ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.jade.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.emerald.700}"
               },
-              "name": "colorLightBaseColorsMappingSurfaceSuccess10",
+              "name": "cjibColorLightBaseColorsMappingSurfaceSuccess10",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3463,17 +3623,17 @@ module.exports = {
             },
             "warning-00": {
               "type": "color",
-              "value": "#fff5e6ff",
+              "value": "#fffbebff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.squash.95}"
+                "value": "{cjib-color.dark._base - colors.ramps.amber.50}"
               },
-              "name": "colorLightBaseColorsMappingSurfaceWarning00",
+              "name": "cjibColorLightBaseColorsMappingSurfaceWarning00",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3483,17 +3643,17 @@ module.exports = {
             },
             "warning-01": {
               "type": "color",
-              "value": "#ffecccff",
+              "value": "#fef3c7ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.squash.90}"
+                "value": "{cjib-color.dark._base - colors.ramps.amber.100}"
               },
-              "name": "colorLightBaseColorsMappingSurfaceWarning01",
+              "name": "cjibColorLightBaseColorsMappingSurfaceWarning01",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3503,17 +3663,17 @@ module.exports = {
             },
             "warning-10": {
               "type": "color",
-              "value": "#fe9e02ff",
+              "value": "#b45309ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.squash.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.amber.700}"
               },
-              "name": "colorLightBaseColorsMappingSurfaceWarning10",
+              "name": "cjibColorLightBaseColorsMappingSurfaceWarning10",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3523,17 +3683,17 @@ module.exports = {
             },
             "danger-00": {
               "type": "color",
-              "value": "#f7e5e9ff",
+              "value": "#fef2f2ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.scarlet.95}"
+                "value": "{cjib-color.dark._base - colors.ramps.red.50}"
               },
-              "name": "colorLightBaseColorsMappingSurfaceDanger00",
+              "name": "cjibColorLightBaseColorsMappingSurfaceDanger00",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3543,17 +3703,17 @@ module.exports = {
             },
             "danger-01": {
               "type": "color",
-              "value": "#efccd2ff",
+              "value": "#fee2e2ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.scarlet.90}"
+                "value": "{cjib-color.dark._base - colors.ramps.red.100}"
               },
-              "name": "colorLightBaseColorsMappingSurfaceDanger01",
+              "name": "cjibColorLightBaseColorsMappingSurfaceDanger01",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3563,17 +3723,17 @@ module.exports = {
             },
             "danger-10": {
               "type": "color",
-              "value": "#af0020ff",
+              "value": "#b91c1cff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.scarlet.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.red.700}"
               },
-              "name": "colorLightBaseColorsMappingSurfaceDanger10",
+              "name": "cjibColorLightBaseColorsMappingSurfaceDanger10",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3583,17 +3743,17 @@ module.exports = {
             },
             "info-00": {
               "type": "color",
-              "value": "#e5f2f9ff",
+              "value": "#f7fbfdff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.ro - hemelblauw.95}"
+                "value": "{cjib-color.dark._base - colors.ramps.ro - hemelblauw.50}"
               },
-              "name": "colorLightBaseColorsMappingSurfaceInfo00",
+              "name": "cjibColorLightBaseColorsMappingSurfaceInfo00",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3603,17 +3763,17 @@ module.exports = {
             },
             "info-01": {
               "type": "color",
-              "value": "#cce5f4ff",
+              "value": "#e5f2f9ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.ro - hemelblauw.90}"
+                "value": "{cjib-color.dark._base - colors.ramps.ro - hemelblauw.100}"
               },
-              "name": "colorLightBaseColorsMappingSurfaceInfo01",
+              "name": "cjibColorLightBaseColorsMappingSurfaceInfo01",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3628,12 +3788,12 @@ module.exports = {
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.ro - hemelblauw.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.ro - hemelblauw.700}"
               },
-              "name": "colorLightBaseColorsMappingSurfaceInfo10",
+              "name": "cjibColorLightBaseColorsMappingSurfaceInfo10",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3643,17 +3803,17 @@ module.exports = {
             },
             "neutral-00": {
               "type": "color",
-              "value": "#eff0f3ff",
+              "value": "#f8fafcff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.95}"
+                "value": "{cjib-color.dark._base - colors.ramps.slate.50}"
               },
-              "name": "colorLightBaseColorsMappingSurfaceNeutral00",
+              "name": "cjibColorLightBaseColorsMappingSurfaceNeutral00",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3663,17 +3823,17 @@ module.exports = {
             },
             "neutral-01": {
               "type": "color",
-              "value": "#dee2e8ff",
+              "value": "#f1f5f9ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.90}"
+                "value": "{cjib-color.dark._base - colors.ramps.slate.100}"
               },
-              "name": "colorLightBaseColorsMappingSurfaceNeutral01",
+              "name": "cjibColorLightBaseColorsMappingSurfaceNeutral01",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3683,17 +3843,17 @@ module.exports = {
             },
             "neutral-10": {
               "type": "color",
-              "value": "#5b6e8aff",
+              "value": "#3f3f46ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.zinc.700}"
               },
-              "name": "colorLightBaseColorsMappingSurfaceNeutral10",
+              "name": "cjibColorLightBaseColorsMappingSurfaceNeutral10",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3708,12 +3868,12 @@ module.exports = {
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.ro - hemelblauw.90}"
+                "value": "{cjib-color.dark._base - colors.ramps.ro - hemelblauw.200}"
               },
-              "name": "colorLightBaseColorsMappingSurfaceBackgroundFrom",
+              "name": "cjibColorLightBaseColorsMappingSurfaceBackgroundFrom",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3728,12 +3888,12 @@ module.exports = {
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.ro - hemelblauw.99}"
+                "value": "{cjib-color.dark._base - colors.ramps.ro - hemelblauw.50}"
               },
-              "name": "colorLightBaseColorsMappingSurfaceBackgroundTo",
+              "name": "cjibColorLightBaseColorsMappingSurfaceBackgroundTo",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3741,41 +3901,41 @@ module.exports = {
                 "background-to"
               ]
             },
-            "input": {
+            "input-bg": {
               "type": "color",
-              "value": "#fafbfbff",
+              "value": "#f8fafcff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.99}"
+                "value": "{cjib-color.dark._base - colors.ramps.slate.50}"
               },
-              "name": "colorLightBaseColorsMappingSurfaceInput",
+              "name": "cjibColorLightBaseColorsMappingSurfaceInputBg",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
                 "surface",
-                "input"
+                "input-bg"
               ]
             }
           },
           "text": {
             "base": {
               "type": "color",
-              "value": "#242c37ff",
+              "value": "#0f172aff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.10}"
+                "value": "{cjib-color.dark._base - colors.ramps.slate.900}"
               },
-              "name": "colorLightBaseColorsMappingTextBase",
+              "name": "cjibColorLightBaseColorsMappingTextBase",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3790,12 +3950,12 @@ module.exports = {
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.white}"
+                "value": "{cjib-color.dark._base - colors.white}"
               },
-              "name": "colorLightBaseColorsMappingTextOnColor",
+              "name": "cjibColorLightBaseColorsMappingTextOnColor",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3805,17 +3965,17 @@ module.exports = {
             },
             "secondary": {
               "type": "color",
-              "value": "#5b6e8aff",
+              "value": "#64748bff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.slate.500}"
               },
-              "name": "colorLightBaseColorsMappingTextSecondary",
+              "name": "cjibColorLightBaseColorsMappingTextSecondary",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3832,12 +3992,12 @@ module.exports = {
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.ro - hemelblauw.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.ro - hemelblauw.700}"
               },
-              "name": "colorLightBaseColorsMappingAlertInfo01",
+              "name": "cjibColorLightBaseColorsMappingAlertInfo01",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3847,17 +4007,17 @@ module.exports = {
             },
             "success-01": {
               "type": "color",
-              "value": "#0a9c58ff",
+              "value": "#059669ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.jade.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.emerald.600}"
               },
-              "name": "colorLightBaseColorsMappingAlertSuccess01",
+              "name": "cjibColorLightBaseColorsMappingAlertSuccess01",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3867,17 +4027,17 @@ module.exports = {
             },
             "warning-01": {
               "type": "color",
-              "value": "#fe9e02ff",
+              "value": "#d97706ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.squash.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.amber.600}"
               },
-              "name": "colorLightBaseColorsMappingAlertWarning01",
+              "name": "cjibColorLightBaseColorsMappingAlertWarning01",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3887,17 +4047,17 @@ module.exports = {
             },
             "danger-01": {
               "type": "color",
-              "value": "#af0020ff",
+              "value": "#dc2626ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.scarlet.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.red.600}"
               },
-              "name": "colorLightBaseColorsMappingAlertDanger01",
+              "name": "cjibColorLightBaseColorsMappingAlertDanger01",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3912,12 +4072,12 @@ module.exports = {
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.ro - hemelblauw.30}"
+                "value": "{cjib-color.dark._base - colors.ramps.ro - hemelblauw.800}"
               },
-              "name": "colorLightBaseColorsMappingAlertInfo02",
+              "name": "cjibColorLightBaseColorsMappingAlertInfo02",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3927,17 +4087,17 @@ module.exports = {
             },
             "success-02": {
               "type": "color",
-              "value": "#076d3eff",
+              "value": "#047857ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.jade.30}"
+                "value": "{cjib-color.dark._base - colors.ramps.emerald.700}"
               },
-              "name": "colorLightBaseColorsMappingAlertSuccess02",
+              "name": "cjibColorLightBaseColorsMappingAlertSuccess02",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3947,17 +4107,17 @@ module.exports = {
             },
             "warning-02": {
               "type": "color",
-              "value": "#b26f01ff",
+              "value": "#b45309ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.squash.30}"
+                "value": "{cjib-color.dark._base - colors.ramps.amber.700}"
               },
-              "name": "colorLightBaseColorsMappingAlertWarning02",
+              "name": "cjibColorLightBaseColorsMappingAlertWarning02",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
@@ -3967,22 +4127,162 @@ module.exports = {
             },
             "danger-02": {
               "type": "color",
-              "value": "#7b0016ff",
+              "value": "#b91c1cff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.scarlet.30}"
+                "value": "{cjib-color.dark._base - colors.ramps.red.700}"
               },
-              "name": "colorLightBaseColorsMappingAlertDanger02",
+              "name": "cjibColorLightBaseColorsMappingAlertDanger02",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "mapping",
                 "alert",
                 "danger-02"
+              ]
+            },
+            "neutral-01": {
+              "type": "color",
+              "value": "#475569ff",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "{cjib-color.dark._base - colors.ramps.slate.600}"
+              },
+              "name": "cjibColorLightBaseColorsMappingAlertNeutral01",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "mapping",
+                "alert",
+                "neutral-01"
+              ]
+            },
+            "neutral-02": {
+              "type": "color",
+              "value": "#334155ff",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "{cjib-color.dark._base - colors.ramps.slate.700}"
+              },
+              "name": "cjibColorLightBaseColorsMappingAlertNeutral02",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "mapping",
+                "alert",
+                "neutral-02"
+              ]
+            },
+            "success-00": {
+              "type": "color",
+              "value": "#10b981ff",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "{cjib-color.dark._base - colors.ramps.emerald.500}"
+              },
+              "name": "cjibColorLightBaseColorsMappingAlertSuccess00",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "mapping",
+                "alert",
+                "success-00"
+              ]
+            },
+            "warning-00": {
+              "type": "color",
+              "value": "#f59e0bff",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "{cjib-color.dark._base - colors.ramps.amber.500}"
+              },
+              "name": "cjibColorLightBaseColorsMappingAlertWarning00",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "mapping",
+                "alert",
+                "warning-00"
+              ]
+            },
+            "danger-00": {
+              "type": "color",
+              "value": "#ef4444ff",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "{cjib-color.dark._base - colors.ramps.red.500}"
+              },
+              "name": "cjibColorLightBaseColorsMappingAlertDanger00",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "mapping",
+                "alert",
+                "danger-00"
+              ]
+            },
+            "neutral-00": {
+              "type": "color",
+              "value": "#64748bff",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "{cjib-color.dark._base - colors.ramps.slate.500}"
+              },
+              "name": "cjibColorLightBaseColorsMappingAlertNeutral00",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "mapping",
+                "alert",
+                "neutral-00"
+              ]
+            },
+            "info-00": {
+              "type": "color",
+              "value": "#4ca3d8ff",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "{cjib-color.dark._base - colors.ramps.ro - hemelblauw.500}"
+              },
+              "name": "cjibColorLightBaseColorsMappingAlertInfo00",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "mapping",
+                "alert",
+                "info-00"
               ]
             }
           }
@@ -3998,10 +4298,10 @@ module.exports = {
             "value": "#3c204bff",
             "blendMode": "normal"
           },
-          "name": "colorLightBaseColorsAdelyn",
+          "name": "cjibColorLightBaseColorsAdelyn",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "_base - colors",
             "adelyn"
@@ -4018,992 +4318,506 @@ module.exports = {
             "value": "#000000ff",
             "blendMode": "normal"
           },
-          "name": "colorLightBaseColorsBlack",
+          "name": "cjibColorLightBaseColorsBlack",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "_base - colors",
             "black"
           ]
         },
-        "jade": {
-          "type": "color",
-          "value": "#0a9c58ff",
-          "blendMode": "normal",
-          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-          "isSource": true,
-          "original": {
-            "type": "color",
-            "value": "#0a9c58ff",
-            "blendMode": "normal"
-          },
-          "name": "colorLightBaseColorsJade",
-          "attributes": {},
-          "path": [
-            "color",
-            "light",
-            "_base - colors",
-            "jade"
-          ]
-        },
-        "mixin": {
-          "black": {
-            "10": {
-              "type": "color",
-              "value": "#00000099",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#00000099",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsMixinBlack10",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "mixin",
-                "black",
-                "10"
-              ]
-            },
-            "20": {
-              "type": "color",
-              "value": "#00000066",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#00000066",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsMixinBlack20",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "mixin",
-                "black",
-                "20"
-              ]
-            },
-            "30": {
-              "type": "color",
-              "value": "#0000004d",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#0000004d",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsMixinBlack30",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "mixin",
-                "black",
-                "30"
-              ]
-            }
-          },
-          "white": {
-            "50": {
-              "type": "color",
-              "value": "#ffffff33",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#ffffff33",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsMixinWhite50",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "mixin",
-                "white",
-                "50"
-              ]
-            },
-            "60": {
-              "type": "color",
-              "value": "#ffffff4d",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#ffffff4d",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsMixinWhite60",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "mixin",
-                "white",
-                "60"
-              ]
-            },
-            "70": {
-              "type": "color",
-              "value": "#ffffff66",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#ffffff66",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsMixinWhite70",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "mixin",
-                "white",
-                "70"
-              ]
-            },
-            "80": {
-              "type": "color",
-              "value": "#ffffff99",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#ffffff99",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsMixinWhite80",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "mixin",
-                "white",
-                "80"
-              ]
-            },
-            "90": {
-              "type": "color",
-              "value": "#ffffffcc",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#ffffffcc",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsMixinWhite90",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "mixin",
-                "white",
-                "90"
-              ]
-            },
-            "95": {
-              "type": "color",
-              "value": "#ffffffe6",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#ffffffe6",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsMixinWhite95",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "mixin",
-                "white",
-                "95"
-              ]
-            },
-            "99": {
-              "type": "color",
-              "value": "#fffffff7",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#fffffff7",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsMixinWhite99",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "mixin",
-                "white",
-                "99"
-              ]
-            }
-          }
-        },
-        "nlds - grijs": {
-          "type": "color",
-          "value": "#5b6e8aff",
-          "blendMode": "normal",
-          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-          "isSource": true,
-          "original": {
-            "type": "color",
-            "value": "#5b6e8aff",
-            "blendMode": "normal"
-          },
-          "name": "colorLightBaseColorsNldsGrijs",
-          "attributes": {},
-          "path": [
-            "color",
-            "light",
-            "_base - colors",
-            "nlds - grijs"
-          ]
-        },
         "ramps": {
-          "jade": {
-            "10": {
-              "type": "color",
-              "value": "#043e23ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#043e23ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsJade10",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "jade",
-                "10"
-              ]
-            },
-            "20": {
-              "type": "color",
-              "value": "#065e35ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#065e35ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsJade20",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "jade",
-                "20"
-              ]
-            },
-            "30": {
-              "type": "color",
-              "value": "#076d3eff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#076d3eff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsJade30",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "jade",
-                "30"
-              ]
-            },
-            "40": {
-              "type": "color",
-              "value": "#0a9c58ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#0a9c58ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsJade40",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "jade",
-                "40"
-              ]
-            },
+          "emerald": {
             "50": {
               "type": "color",
-              "value": "#3bb079ff",
+              "value": "#ecfdf5ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#3bb079ff",
+                "value": "#ecfdf5ff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsJade50",
+              "name": "cjibColorLightBaseColorsRampsEmerald50",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "jade",
+                "emerald",
                 "50"
               ]
             },
-            "60": {
+            "100": {
               "type": "color",
-              "value": "#53ba8aff",
+              "value": "#d1fae5ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#53ba8aff",
+                "value": "#d1fae5ff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsJade60",
+              "name": "cjibColorLightBaseColorsRampsEmerald100",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "jade",
-                "60"
+                "emerald",
+                "100"
               ]
             },
-            "70": {
+            "200": {
               "type": "color",
-              "value": "#6cc49bff",
+              "value": "#a7f3d0ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#6cc49bff",
+                "value": "#a7f3d0ff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsJade70",
+              "name": "cjibColorLightBaseColorsRampsEmerald200",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "jade",
-                "70"
+                "emerald",
+                "200"
               ]
             },
-            "80": {
+            "300": {
               "type": "color",
-              "value": "#9dd7bcff",
+              "value": "#6ee7b7ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#9dd7bcff",
+                "value": "#6ee7b7ff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsJade80",
+              "name": "cjibColorLightBaseColorsRampsEmerald300",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "jade",
-                "80"
+                "emerald",
+                "300"
               ]
             },
-            "90": {
+            "400": {
               "type": "color",
-              "value": "#ceebdeff",
+              "value": "#34d399ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#ceebdeff",
+                "value": "#34d399ff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsJade90",
+              "name": "cjibColorLightBaseColorsRampsEmerald400",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "jade",
-                "90"
+                "emerald",
+                "400"
               ]
             },
-            "95": {
+            "500": {
               "type": "color",
-              "value": "#e6f5eeff",
+              "value": "#10b981ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#e6f5eeff",
+                "value": "#10b981ff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsJade95",
+              "name": "cjibColorLightBaseColorsRampsEmerald500",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "jade",
-                "95"
+                "emerald",
+                "500"
               ]
             },
-            "99": {
+            "600": {
               "type": "color",
-              "value": "#f8fcfaff",
+              "value": "#059669ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#f8fcfaff",
+                "value": "#059669ff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsJade99",
+              "name": "cjibColorLightBaseColorsRampsEmerald600",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "jade",
-                "99"
+                "emerald",
+                "600"
+              ]
+            },
+            "700": {
+              "type": "color",
+              "value": "#047857ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#047857ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsEmerald700",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "emerald",
+                "700"
+              ]
+            },
+            "800": {
+              "type": "color",
+              "value": "#065f46ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#065f46ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsEmerald800",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "emerald",
+                "800"
+              ]
+            },
+            "900": {
+              "type": "color",
+              "value": "#064e3bff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#064e3bff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsEmerald900",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "emerald",
+                "900"
+              ]
+            },
+            "950": {
+              "type": "color",
+              "value": "#022c22ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#022c22ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsEmerald950",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "emerald",
+                "950"
               ]
             }
           },
-          "nlds - grijs": {
-            "10": {
-              "type": "color",
-              "value": "#242c37ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#242c37ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsNldsGrijs10",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "nlds - grijs",
-                "10"
-              ]
-            },
-            "20": {
-              "type": "color",
-              "value": "#374253ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#374253ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsNldsGrijs20",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "nlds - grijs",
-                "20"
-              ]
-            },
-            "30": {
-              "type": "color",
-              "value": "#404d61ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#404d61ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsNldsGrijs30",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "nlds - grijs",
-                "30"
-              ]
-            },
-            "40": {
-              "type": "color",
-              "value": "#5b6e8aff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#5b6e8aff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsNldsGrijs40",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "nlds - grijs",
-                "40"
-              ]
-            },
+          "zinc": {
             "50": {
               "type": "color",
-              "value": "#7c8ba1ff",
+              "value": "#fafafaff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#7c8ba1ff",
+                "value": "#fafafaff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsNldsGrijs50",
+              "name": "cjibColorLightBaseColorsRampsZinc50",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "nlds - grijs",
+                "zinc",
                 "50"
               ]
             },
-            "60": {
+            "100": {
               "type": "color",
-              "value": "#8c99adff",
+              "value": "#f4f4f5ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#8c99adff",
+                "value": "#f4f4f5ff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsNldsGrijs60",
+              "name": "cjibColorLightBaseColorsRampsZinc100",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "nlds - grijs",
-                "60"
+                "zinc",
+                "100"
               ]
             },
-            "70": {
+            "200": {
               "type": "color",
-              "value": "#9da8b9ff",
+              "value": "#e4e4e7ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#9da8b9ff",
+                "value": "#e4e4e7ff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsNldsGrijs70",
+              "name": "cjibColorLightBaseColorsRampsZinc200",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "nlds - grijs",
-                "70"
+                "zinc",
+                "200"
               ]
             },
-            "80": {
+            "300": {
               "type": "color",
-              "value": "#bdc5d0ff",
+              "value": "#d4d4d8ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#bdc5d0ff",
+                "value": "#d4d4d8ff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsNldsGrijs80",
+              "name": "cjibColorLightBaseColorsRampsZinc300",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "nlds - grijs",
-                "80"
+                "zinc",
+                "300"
               ]
             },
-            "90": {
+            "400": {
               "type": "color",
-              "value": "#dee2e8ff",
+              "value": "#a1a1aaff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#dee2e8ff",
+                "value": "#a1a1aaff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsNldsGrijs90",
+              "name": "cjibColorLightBaseColorsRampsZinc400",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "nlds - grijs",
-                "90"
+                "zinc",
+                "400"
               ]
             },
-            "95": {
+            "500": {
               "type": "color",
-              "value": "#eff0f3ff",
+              "value": "#71717aff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#eff0f3ff",
+                "value": "#71717aff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsNldsGrijs95",
+              "name": "cjibColorLightBaseColorsRampsZinc500",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "nlds - grijs",
-                "95"
+                "zinc",
+                "500"
               ]
             },
-            "99": {
+            "600": {
               "type": "color",
-              "value": "#fafbfbff",
+              "value": "#52525bff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#fafbfbff",
+                "value": "#52525bff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsNldsGrijs99",
+              "name": "cjibColorLightBaseColorsRampsZinc600",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "nlds - grijs",
-                "99"
+                "zinc",
+                "600"
+              ]
+            },
+            "700": {
+              "type": "color",
+              "value": "#3f3f46ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#3f3f46ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsZinc700",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "zinc",
+                "700"
+              ]
+            },
+            "800": {
+              "type": "color",
+              "value": "#27272aff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#27272aff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsZinc800",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "zinc",
+                "800"
+              ]
+            },
+            "900": {
+              "type": "color",
+              "value": "#18181bff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#18181bff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsZinc900",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "zinc",
+                "900"
+              ]
+            },
+            "950": {
+              "type": "color",
+              "value": "#09090bff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#09090bff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsZinc950",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "zinc",
+                "950"
               ]
             }
           },
           "ro - hemelblauw": {
-            "10": {
-              "type": "color",
-              "value": "#003150ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#003150ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsRoHemelblauw10",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "ro - hemelblauw",
-                "10"
-              ]
-            },
-            "20": {
-              "type": "color",
-              "value": "#004a77ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#004a77ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsRoHemelblauw20",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "ro - hemelblauw",
-                "20"
-              ]
-            },
-            "30": {
-              "type": "color",
-              "value": "#00568bff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#00568bff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsRoHemelblauw30",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "ro - hemelblauw",
-                "30"
-              ]
-            },
-            "40": {
-              "type": "color",
-              "value": "#007bc7ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#007bc7ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsRoHemelblauw40",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "ro - hemelblauw",
-                "40"
-              ]
-            },
             "50": {
-              "type": "color",
-              "value": "#3395d2ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#3395d2ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsRoHemelblauw50",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "ro - hemelblauw",
-                "50"
-              ]
-            },
-            "60": {
-              "type": "color",
-              "value": "#4ca3d8ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#4ca3d8ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsRoHemelblauw60",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "ro - hemelblauw",
-                "60"
-              ]
-            },
-            "70": {
-              "type": "color",
-              "value": "#66b0ddff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#66b0ddff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsRoHemelblauw70",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "ro - hemelblauw",
-                "70"
-              ]
-            },
-            "80": {
-              "type": "color",
-              "value": "#99cae9ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#99cae9ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsRoHemelblauw80",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "ro - hemelblauw",
-                "80"
-              ]
-            },
-            "90": {
-              "type": "color",
-              "value": "#cce5f4ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#cce5f4ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsRoHemelblauw90",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "ro - hemelblauw",
-                "90"
-              ]
-            },
-            "95": {
-              "type": "color",
-              "value": "#e5f2f9ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#e5f2f9ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsRoHemelblauw95",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "ro - hemelblauw",
-                "95"
-              ]
-            },
-            "99": {
               "type": "color",
               "value": "#f7fbfdff",
               "blendMode": "normal",
@@ -5014,240 +4828,240 @@ module.exports = {
                 "value": "#f7fbfdff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsRoHemelblauw99",
+              "name": "cjibColorLightBaseColorsRampsRoHemelblauw50",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
                 "ro - hemelblauw",
-                "99"
+                "50"
+              ]
+            },
+            "100": {
+              "type": "color",
+              "value": "#e5f2f9ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#e5f2f9ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsRoHemelblauw100",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "ro - hemelblauw",
+                "100"
+              ]
+            },
+            "200": {
+              "type": "color",
+              "value": "#cce5f4ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#cce5f4ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsRoHemelblauw200",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "ro - hemelblauw",
+                "200"
+              ]
+            },
+            "300": {
+              "type": "color",
+              "value": "#99cae9ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#99cae9ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsRoHemelblauw300",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "ro - hemelblauw",
+                "300"
+              ]
+            },
+            "400": {
+              "type": "color",
+              "value": "#66b0ddff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#66b0ddff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsRoHemelblauw400",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "ro - hemelblauw",
+                "400"
+              ]
+            },
+            "500": {
+              "type": "color",
+              "value": "#4ca3d8ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#4ca3d8ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsRoHemelblauw500",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "ro - hemelblauw",
+                "500"
+              ]
+            },
+            "600": {
+              "type": "color",
+              "value": "#3395d2ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#3395d2ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsRoHemelblauw600",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "ro - hemelblauw",
+                "600"
+              ]
+            },
+            "700": {
+              "type": "color",
+              "value": "#007bc7ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#007bc7ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsRoHemelblauw700",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "ro - hemelblauw",
+                "700"
+              ]
+            },
+            "800": {
+              "type": "color",
+              "value": "#00568bff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#00568bff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsRoHemelblauw800",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "ro - hemelblauw",
+                "800"
+              ]
+            },
+            "900": {
+              "type": "color",
+              "value": "#004a77ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#004a77ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsRoHemelblauw900",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "ro - hemelblauw",
+                "900"
+              ]
+            },
+            "950": {
+              "type": "color",
+              "value": "#003150ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#003150ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsRoHemelblauw950",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "ro - hemelblauw",
+                "950"
               ]
             }
           },
           "ro - paars": {
-            "10": {
-              "type": "color",
-              "value": "#1a0826ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#1a0826ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsRoPaars10",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "ro - paars",
-                "10"
-              ]
-            },
-            "20": {
-              "type": "color",
-              "value": "#280c39ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#280c39ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsRoPaars20",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "ro - paars",
-                "20"
-              ]
-            },
-            "30": {
-              "type": "color",
-              "value": "#2e0e43ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#2e0e43ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsRoPaars30",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "ro - paars",
-                "30"
-              ]
-            },
-            "40": {
-              "type": "color",
-              "value": "#42145fff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#42145fff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsRoPaars40",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "ro - paars",
-                "40"
-              ]
-            },
             "50": {
-              "type": "color",
-              "value": "#68437fff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#68437fff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsRoPaars50",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "ro - paars",
-                "50"
-              ]
-            },
-            "60": {
-              "type": "color",
-              "value": "#7b5a8fff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#7b5a8fff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsRoPaars60",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "ro - paars",
-                "60"
-              ]
-            },
-            "70": {
-              "type": "color",
-              "value": "#8e729fff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#8e729fff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsRoPaars70",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "ro - paars",
-                "70"
-              ]
-            },
-            "80": {
-              "type": "color",
-              "value": "#b3a1bfff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#b3a1bfff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsRoPaars80",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "ro - paars",
-                "80"
-              ]
-            },
-            "90": {
-              "type": "color",
-              "value": "#d9d0dfff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#d9d0dfff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsRoPaars90",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "ro - paars",
-                "90"
-              ]
-            },
-            "95": {
-              "type": "color",
-              "value": "#ece7efff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#ece7efff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsRoPaars95",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "ro - paars",
-                "95"
-              ]
-            },
-            "99": {
               "type": "color",
               "value": "#f9f8faff",
               "blendMode": "normal",
@@ -5258,503 +5072,967 @@ module.exports = {
                 "value": "#f9f8faff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsRoPaars99",
+              "name": "cjibColorLightBaseColorsRampsRoPaars50",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
                 "ro - paars",
-                "99"
-              ]
-            }
-          },
-          "scarlet": {
-            "10": {
-              "type": "color",
-              "value": "#46000dff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#46000dff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsScarlet10",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "scarlet",
-                "10"
-              ]
-            },
-            "20": {
-              "type": "color",
-              "value": "#690013ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#690013ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsScarlet20",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "scarlet",
-                "20"
-              ]
-            },
-            "30": {
-              "type": "color",
-              "value": "#7b0016ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#7b0016ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsScarlet30",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "scarlet",
-                "30"
-              ]
-            },
-            "40": {
-              "type": "color",
-              "value": "#af0020ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#af0020ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsScarlet40",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "scarlet",
-                "40"
-              ]
-            },
-            "50": {
-              "type": "color",
-              "value": "#bf334dff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#bf334dff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsScarlet50",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "scarlet",
                 "50"
               ]
             },
-            "60": {
+            "100": {
               "type": "color",
-              "value": "#c74c63ff",
+              "value": "#ece7efff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#c74c63ff",
+                "value": "#ece7efff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsScarlet60",
+              "name": "cjibColorLightBaseColorsRampsRoPaars100",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "scarlet",
-                "60"
+                "ro - paars",
+                "100"
               ]
             },
-            "70": {
+            "200": {
               "type": "color",
-              "value": "#cf6679ff",
+              "value": "#d9d0dfff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#cf6679ff",
+                "value": "#d9d0dfff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsScarlet70",
+              "name": "cjibColorLightBaseColorsRampsRoPaars200",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "scarlet",
-                "70"
+                "ro - paars",
+                "200"
               ]
             },
-            "80": {
+            "300": {
               "type": "color",
-              "value": "#df99a6ff",
+              "value": "#b3a1bfff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#df99a6ff",
+                "value": "#b3a1bfff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsScarlet80",
+              "name": "cjibColorLightBaseColorsRampsRoPaars300",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "scarlet",
-                "80"
+                "ro - paars",
+                "300"
               ]
             },
-            "90": {
+            "400": {
               "type": "color",
-              "value": "#efccd2ff",
+              "value": "#8e729fff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#efccd2ff",
+                "value": "#8e729fff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsScarlet90",
+              "name": "cjibColorLightBaseColorsRampsRoPaars400",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "scarlet",
-                "90"
+                "ro - paars",
+                "400"
               ]
             },
-            "95": {
+            "500": {
               "type": "color",
-              "value": "#f7e5e9ff",
+              "value": "#7b5a8fff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#f7e5e9ff",
+                "value": "#7b5a8fff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsScarlet95",
+              "name": "cjibColorLightBaseColorsRampsRoPaars500",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "scarlet",
-                "95"
+                "ro - paars",
+                "500"
               ]
             },
-            "99": {
+            "600": {
               "type": "color",
-              "value": "#fdf7f8ff",
+              "value": "#68437fff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#fdf7f8ff",
+                "value": "#68437fff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsScarlet99",
+              "name": "cjibColorLightBaseColorsRampsRoPaars600",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "scarlet",
-                "99"
+                "ro - paars",
+                "600"
+              ]
+            },
+            "700": {
+              "type": "color",
+              "value": "#42145fff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#42145fff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsRoPaars700",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "ro - paars",
+                "700"
+              ]
+            },
+            "800": {
+              "type": "color",
+              "value": "#2e0e43ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#2e0e43ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsRoPaars800",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "ro - paars",
+                "800"
+              ]
+            },
+            "900": {
+              "type": "color",
+              "value": "#280c39ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#280c39ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsRoPaars900",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "ro - paars",
+                "900"
+              ]
+            },
+            "950": {
+              "type": "color",
+              "value": "#1a0826ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#1a0826ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsRoPaars950",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "ro - paars",
+                "950"
               ]
             }
           },
-          "squash": {
-            "10": {
-              "type": "color",
-              "value": "#663f01ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#663f01ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsSquash10",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "squash",
-                "10"
-              ]
-            },
-            "20": {
-              "type": "color",
-              "value": "#985f01ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#985f01ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsSquash20",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "squash",
-                "20"
-              ]
-            },
-            "30": {
-              "type": "color",
-              "value": "#b26f01ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#b26f01ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsSquash30",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "squash",
-                "30"
-              ]
-            },
-            "40": {
-              "type": "color",
-              "value": "#fe9e02ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#fe9e02ff",
-                "blendMode": "normal"
-              },
-              "name": "colorLightBaseColorsRampsSquash40",
-              "attributes": {},
-              "path": [
-                "color",
-                "light",
-                "_base - colors",
-                "ramps",
-                "squash",
-                "40"
-              ]
-            },
+          "red": {
             "50": {
               "type": "color",
-              "value": "#feb135ff",
+              "value": "#fef2f2ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#feb135ff",
+                "value": "#fef2f2ff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsSquash50",
+              "name": "cjibColorLightBaseColorsRampsRed50",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "squash",
+                "red",
                 "50"
               ]
             },
-            "60": {
+            "100": {
               "type": "color",
-              "value": "#febb4eff",
+              "value": "#fee2e2ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#febb4eff",
+                "value": "#fee2e2ff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsSquash60",
+              "name": "cjibColorLightBaseColorsRampsRed100",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "squash",
-                "60"
+                "red",
+                "100"
               ]
             },
-            "70": {
+            "200": {
               "type": "color",
-              "value": "#fec567ff",
+              "value": "#fecacaff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#fec567ff",
+                "value": "#fecacaff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsSquash70",
+              "name": "cjibColorLightBaseColorsRampsRed200",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "squash",
-                "70"
+                "red",
+                "200"
               ]
             },
-            "80": {
+            "300": {
               "type": "color",
-              "value": "#ffd89aff",
+              "value": "#fca5a5ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#ffd89aff",
+                "value": "#fca5a5ff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsSquash80",
+              "name": "cjibColorLightBaseColorsRampsRed300",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "squash",
-                "80"
+                "red",
+                "300"
               ]
             },
-            "90": {
+            "400": {
               "type": "color",
-              "value": "#ffecccff",
+              "value": "#f87171ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#ffecccff",
+                "value": "#f87171ff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsSquash90",
+              "name": "cjibColorLightBaseColorsRampsRed400",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "squash",
-                "90"
+                "red",
+                "400"
               ]
             },
-            "95": {
+            "500": {
               "type": "color",
-              "value": "#fff5e6ff",
+              "value": "#ef4444ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#fff5e6ff",
+                "value": "#ef4444ff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsSquash95",
+              "name": "cjibColorLightBaseColorsRampsRed500",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "squash",
-                "95"
+                "red",
+                "500"
               ]
             },
-            "99": {
+            "600": {
               "type": "color",
-              "value": "#fffcf7ff",
+              "value": "#dc2626ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#fffcf7ff",
+                "value": "#dc2626ff",
                 "blendMode": "normal"
               },
-              "name": "colorLightBaseColorsRampsSquash99",
+              "name": "cjibColorLightBaseColorsRampsRed600",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "light",
                 "_base - colors",
                 "ramps",
-                "squash",
-                "99"
+                "red",
+                "600"
+              ]
+            },
+            "700": {
+              "type": "color",
+              "value": "#b91c1cff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#b91c1cff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsRed700",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "red",
+                "700"
+              ]
+            },
+            "800": {
+              "type": "color",
+              "value": "#991b1bff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#991b1bff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsRed800",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "red",
+                "800"
+              ]
+            },
+            "900": {
+              "type": "color",
+              "value": "#7f1d1dff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#7f1d1dff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsRed900",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "red",
+                "900"
+              ]
+            },
+            "950": {
+              "type": "color",
+              "value": "#450a0aff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#450a0aff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsRed950",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "red",
+                "950"
+              ]
+            }
+          },
+          "amber": {
+            "50": {
+              "type": "color",
+              "value": "#fffbebff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#fffbebff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsAmber50",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "50"
+              ]
+            },
+            "100": {
+              "type": "color",
+              "value": "#fef3c7ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#fef3c7ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsAmber100",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "100"
+              ]
+            },
+            "200": {
+              "type": "color",
+              "value": "#fde68aff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#fde68aff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsAmber200",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "200"
+              ]
+            },
+            "300": {
+              "type": "color",
+              "value": "#fcd34dff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#fcd34dff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsAmber300",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "300"
+              ]
+            },
+            "400": {
+              "type": "color",
+              "value": "#fbbf24ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#fbbf24ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsAmber400",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "400"
+              ]
+            },
+            "500": {
+              "type": "color",
+              "value": "#f59e0bff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#f59e0bff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsAmber500",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "500"
+              ]
+            },
+            "600": {
+              "type": "color",
+              "value": "#d97706ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#d97706ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsAmber600",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "600"
+              ]
+            },
+            "700": {
+              "type": "color",
+              "value": "#b45309ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#b45309ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsAmber700",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "700"
+              ]
+            },
+            "800": {
+              "type": "color",
+              "value": "#92400eff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#92400eff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsAmber800",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "800"
+              ]
+            },
+            "900": {
+              "type": "color",
+              "value": "#78350fff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#78350fff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsAmber900",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "900"
+              ]
+            },
+            "950": {
+              "type": "color",
+              "value": "#451a03ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#451a03ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsAmber950",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "950"
+              ]
+            }
+          },
+          "slate": {
+            "50": {
+              "type": "color",
+              "value": "#f8fafcff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#f8fafcff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsSlate50",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "50"
+              ]
+            },
+            "100": {
+              "type": "color",
+              "value": "#f1f5f9ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#f1f5f9ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsSlate100",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "100"
+              ]
+            },
+            "200": {
+              "type": "color",
+              "value": "#e2e8f0ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#e2e8f0ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsSlate200",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "200"
+              ]
+            },
+            "300": {
+              "type": "color",
+              "value": "#cbd5e1ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#cbd5e1ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsSlate300",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "300"
+              ]
+            },
+            "400": {
+              "type": "color",
+              "value": "#94a3b8ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#94a3b8ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsSlate400",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "400"
+              ]
+            },
+            "500": {
+              "type": "color",
+              "value": "#64748bff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#64748bff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsSlate500",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "500"
+              ]
+            },
+            "600": {
+              "type": "color",
+              "value": "#475569ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#475569ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsSlate600",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "600"
+              ]
+            },
+            "700": {
+              "type": "color",
+              "value": "#334155ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#334155ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsSlate700",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "700"
+              ]
+            },
+            "800": {
+              "type": "color",
+              "value": "#1e293bff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#1e293bff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsSlate800",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "800"
+              ]
+            },
+            "900": {
+              "type": "color",
+              "value": "#0f172aff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#0f172aff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsSlate900",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "900"
+              ]
+            },
+            "950": {
+              "type": "color",
+              "value": "#020617ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#020617ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorLightBaseColorsRampsSlate950",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "light",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "950"
               ]
             }
           }
@@ -5770,10 +6048,10 @@ module.exports = {
             "value": "#007bc7ff",
             "blendMode": "normal"
           },
-          "name": "colorLightBaseColorsRoHemelblauw",
+          "name": "cjibColorLightBaseColorsRoHemelblauw",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "_base - colors",
             "ro - hemelblauw"
@@ -5790,53 +6068,13 @@ module.exports = {
             "value": "#42145fff",
             "blendMode": "normal"
           },
-          "name": "colorLightBaseColorsRoPaars",
+          "name": "cjibColorLightBaseColorsRoPaars",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "_base - colors",
             "ro - paars"
-          ]
-        },
-        "scarlet": {
-          "type": "color",
-          "value": "#af0020ff",
-          "blendMode": "normal",
-          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-          "isSource": true,
-          "original": {
-            "type": "color",
-            "value": "#af0020ff",
-            "blendMode": "normal"
-          },
-          "name": "colorLightBaseColorsScarlet",
-          "attributes": {},
-          "path": [
-            "color",
-            "light",
-            "_base - colors",
-            "scarlet"
-          ]
-        },
-        "squash": {
-          "type": "color",
-          "value": "#fe9e02ff",
-          "blendMode": "normal",
-          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-          "isSource": true,
-          "original": {
-            "type": "color",
-            "value": "#fe9e02ff",
-            "blendMode": "normal"
-          },
-          "name": "colorLightBaseColorsSquash",
-          "attributes": {},
-          "path": [
-            "color",
-            "light",
-            "_base - colors",
-            "squash"
           ]
         },
         "white": {
@@ -5850,10 +6088,10 @@ module.exports = {
             "value": "#ffffffff",
             "blendMode": "normal"
           },
-          "name": "colorLightBaseColorsWhite",
+          "name": "cjibColorLightBaseColorsWhite",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "_base - colors",
             "white"
@@ -5868,12 +6106,12 @@ module.exports = {
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.ramps.ro - paars.40}"
+            "value": "{cjib-color.dark._base - colors.ramps.ro - paars.700}"
           },
-          "name": "colorLightLogoLogo01",
+          "name": "cjibColorLightLogoLogo01",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "logo",
             "logo-01"
@@ -5886,12 +6124,12 @@ module.exports = {
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.ramps.ro - hemelblauw.40}"
+            "value": "{cjib-color.dark._base - colors.ramps.ro - hemelblauw.700}"
           },
-          "name": "colorLightLogoLogo02",
+          "name": "cjibColorLightLogoLogo02",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "light",
             "logo",
             "logo-02"
@@ -5903,17 +6141,17 @@ module.exports = {
       "surface": {
         "background-from": {
           "type": "color",
-          "value": "#242c37ff",
+          "value": "#09090bff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.surface.background-from}"
+            "value": "{cjib-color.dark._base - colors.mapping.surface.background-from}"
           },
-          "name": "colorDarkSurfaceBackgroundFrom",
+          "name": "cjibColorDarkSurfaceBackgroundFrom",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "surface",
             "background-from"
@@ -5921,17 +6159,17 @@ module.exports = {
         },
         "card": {
           "type": "color",
-          "value": "#000000ff",
+          "value": "#18181bff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.surface.card}"
+            "value": "{cjib-color.dark._base - colors.mapping.surface.component-bg}"
           },
-          "name": "colorDarkSurfaceCard",
+          "name": "cjibColorDarkSurfaceCard",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "surface",
             "card"
@@ -5939,17 +6177,17 @@ module.exports = {
         },
         "alternate": {
           "type": "color",
-          "value": "#242c37ff",
+          "value": "#1e293bff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.ramps.nlds - grijs.10}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.neutral-02}"
           },
-          "name": "colorDarkSurfaceAlternate",
+          "name": "cjibColorDarkSurfaceAlternate",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "surface",
             "alternate"
@@ -5957,17 +6195,17 @@ module.exports = {
         },
         "header": {
           "type": "color",
-          "value": "#dee2e8ff",
+          "value": "#334155ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.surface.neutral-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.neutral-01}"
           },
-          "name": "colorDarkSurfaceHeader",
+          "name": "cjibColorDarkSurfaceHeader",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "surface",
             "header"
@@ -5975,17 +6213,17 @@ module.exports = {
         },
         "info": {
           "type": "color",
-          "value": "#cce5f4ff",
+          "value": "#003150ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.surface.info-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.surface.info-00}"
           },
-          "name": "colorDarkSurfaceInfo",
+          "name": "cjibColorDarkSurfaceInfo",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "surface",
             "info"
@@ -5993,17 +6231,17 @@ module.exports = {
         },
         "success": {
           "type": "color",
-          "value": "#ceebdeff",
+          "value": "#022c22ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.surface.success-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.surface.success-00}"
           },
-          "name": "colorDarkSurfaceSuccess",
+          "name": "cjibColorDarkSurfaceSuccess",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "surface",
             "success"
@@ -6011,17 +6249,17 @@ module.exports = {
         },
         "warning": {
           "type": "color",
-          "value": "#ffecccff",
+          "value": "#451a03ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.surface.warning-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.surface.warning-00}"
           },
-          "name": "colorDarkSurfaceWarning",
+          "name": "cjibColorDarkSurfaceWarning",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "surface",
             "warning"
@@ -6029,17 +6267,17 @@ module.exports = {
         },
         "danger": {
           "type": "color",
-          "value": "#efccd2ff",
+          "value": "#450a0aff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.surface.danger-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.surface.danger-00}"
           },
-          "name": "colorDarkSurfaceDanger",
+          "name": "cjibColorDarkSurfaceDanger",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "surface",
             "danger"
@@ -6047,17 +6285,17 @@ module.exports = {
         },
         "background-to": {
           "type": "color",
-          "value": "#000000ff",
+          "value": "#18181bff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.surface.background-to}"
+            "value": "{cjib-color.dark._base - colors.mapping.surface.background-to}"
           },
-          "name": "colorDarkSurfaceBackgroundTo",
+          "name": "cjibColorDarkSurfaceBackgroundTo",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "surface",
             "background-to"
@@ -6065,20 +6303,38 @@ module.exports = {
         },
         "input": {
           "type": "color",
-          "value": "#242c37ff",
+          "value": "#18181bff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.surface.input}"
+            "value": "{cjib-color.dark._base - colors.mapping.surface.input-bg}"
           },
-          "name": "colorDarkSurfaceInput",
+          "name": "cjibColorDarkSurfaceInput",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "surface",
             "input"
+          ]
+        },
+        "neutral": {
+          "type": "color",
+          "value": "#09090bff",
+          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+          "isSource": true,
+          "original": {
+            "type": "color",
+            "value": "{cjib-color.dark._base - colors.mapping.surface.neutral-00}"
+          },
+          "name": "cjibColorDarkSurfaceNeutral",
+          "attributes": {},
+          "path": [
+            "cjib-color",
+            "dark",
+            "surface",
+            "neutral"
           ]
         }
       },
@@ -6090,12 +6346,12 @@ module.exports = {
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.text.on-color}"
+            "value": "{cjib-color.dark._base - colors.mapping.text.on-color}"
           },
-          "name": "colorDarkTextOnColor",
+          "name": "cjibColorDarkTextOnColor",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "text",
             "on-color"
@@ -6103,17 +6359,17 @@ module.exports = {
         },
         "base": {
           "type": "color",
-          "value": "#dee2e8ff",
+          "value": "#f1f5f9ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.text.base}"
+            "value": "{cjib-color.dark._base - colors.mapping.text.base}"
           },
-          "name": "colorDarkTextBase",
+          "name": "cjibColorDarkTextBase",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "text",
             "base"
@@ -6121,17 +6377,17 @@ module.exports = {
         },
         "danger": {
           "type": "color",
-          "value": "#7b0016ff",
+          "value": "#ef4444ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.danger-02}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.danger-00}"
           },
-          "name": "colorDarkTextDanger",
+          "name": "cjibColorDarkTextDanger",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "text",
             "danger"
@@ -6139,17 +6395,17 @@ module.exports = {
         },
         "info": {
           "type": "color",
-          "value": "#00568bff",
+          "value": "#4ca3d8ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.info-02}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.info-00}"
           },
-          "name": "colorDarkTextInfo",
+          "name": "cjibColorDarkTextInfo",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "text",
             "info"
@@ -6157,17 +6413,17 @@ module.exports = {
         },
         "success": {
           "type": "color",
-          "value": "#076d3eff",
+          "value": "#10b981ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.success-02}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.success-00}"
           },
-          "name": "colorDarkTextSuccess",
+          "name": "cjibColorDarkTextSuccess",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "text",
             "success"
@@ -6175,17 +6431,17 @@ module.exports = {
         },
         "warning": {
           "type": "color",
-          "value": "#b26f01ff",
+          "value": "#f59e0bff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.warning-02}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.warning-00}"
           },
-          "name": "colorDarkTextWarning",
+          "name": "cjibColorDarkTextWarning",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "text",
             "warning"
@@ -6198,12 +6454,12 @@ module.exports = {
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.info-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.info-01}"
           },
-          "name": "colorDarkTextLink",
+          "name": "cjibColorDarkTextLink",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "text",
             "link"
@@ -6211,17 +6467,17 @@ module.exports = {
         },
         "secondary": {
           "type": "color",
-          "value": "#8c99adff",
+          "value": "#94a3b8ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.text.secondary}"
+            "value": "{cjib-color.dark._base - colors.mapping.text.secondary}"
           },
-          "name": "colorDarkTextSecondary",
+          "name": "cjibColorDarkTextSecondary",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "text",
             "secondary"
@@ -6238,30 +6494,48 @@ module.exports = {
             "value": "#5b6e8a80",
             "blendMode": "normal"
           },
-          "name": "colorDarkTextLowEmphasis",
+          "name": "cjibColorDarkTextLowEmphasis",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "text",
             "low-emphasis"
+          ]
+        },
+        "neutral": {
+          "type": "color",
+          "value": "#64748bff",
+          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+          "isSource": true,
+          "original": {
+            "type": "color",
+            "value": "{cjib-color.dark._base - colors.mapping.alert.neutral-00}"
+          },
+          "name": "cjibColorDarkTextNeutral",
+          "attributes": {},
+          "path": [
+            "cjib-color",
+            "dark",
+            "text",
+            "neutral"
           ]
         }
       },
       "button": {
         "primary": {
           "type": "color",
-          "value": "#007bc7ff",
+          "value": "#66b0ddff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.interaction.primary-40}"
+            "value": "{cjib-color.dark._base - colors.mapping.interaction.primary-40}"
           },
-          "name": "colorDarkButtonPrimary",
+          "name": "cjibColorDarkButtonPrimary",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "button",
             "primary"
@@ -6269,17 +6543,17 @@ module.exports = {
         },
         "secondary": {
           "type": "color",
-          "value": "#bdc5d0ff",
+          "value": "#94a3b8ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.interaction.secondary-40}"
+            "value": "{cjib-color.dark._base - colors.mapping.interaction.secondary-40}"
           },
-          "name": "colorDarkButtonSecondary",
+          "name": "cjibColorDarkButtonSecondary",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "button",
             "secondary"
@@ -6287,17 +6561,17 @@ module.exports = {
         },
         "danger": {
           "type": "color",
-          "value": "#af0020ff",
+          "value": "#b91c1cff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.danger-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.danger-01}"
           },
-          "name": "colorDarkButtonDanger",
+          "name": "cjibColorDarkButtonDanger",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "button",
             "danger"
@@ -6305,17 +6579,17 @@ module.exports = {
         },
         "success": {
           "type": "color",
-          "value": "#0a9c58ff",
+          "value": "#047857ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.success-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.success-01}"
           },
-          "name": "colorDarkButtonSuccess",
+          "name": "cjibColorDarkButtonSuccess",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "button",
             "success"
@@ -6323,17 +6597,17 @@ module.exports = {
         },
         "warning": {
           "type": "color",
-          "value": "#fe9e02ff",
+          "value": "#b45309ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.warning-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.warning-01}"
           },
-          "name": "colorDarkButtonWarning",
+          "name": "cjibColorDarkButtonWarning",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "button",
             "warning"
@@ -6343,17 +6617,19 @@ module.exports = {
       "border": {
         "divider": {
           "type": "color",
-          "value": "#5b6e8aff",
+          "value": "#94a3b833",
+          "blendMode": "normal",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.border.border-02}"
+            "value": "#94a3b833",
+            "blendMode": "normal"
           },
-          "name": "colorDarkBorderDivider",
+          "name": "cjibColorDarkBorderDivider",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "border",
             "divider"
@@ -6361,20 +6637,120 @@ module.exports = {
         },
         "border": {
           "type": "color",
-          "value": "#242c37ff",
+          "value": "#1e293bff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.border.border-00}"
+            "value": "{cjib-color.dark._base - colors.mapping.border.border-00}"
           },
-          "name": "colorDarkBorderBorder",
+          "name": "cjibColorDarkBorderBorder",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "border",
             "border"
+          ]
+        },
+        "neutral20": {
+          "type": "color",
+          "value": "#33415533",
+          "blendMode": "normal",
+          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+          "isSource": true,
+          "original": {
+            "type": "color",
+            "value": "#33415533",
+            "blendMode": "normal"
+          },
+          "name": "cjibColorDarkBorderNeutral20",
+          "attributes": {},
+          "path": [
+            "cjib-color",
+            "dark",
+            "border",
+            "neutral20"
+          ]
+        },
+        "warning20": {
+          "type": "color",
+          "value": "#b4530933",
+          "blendMode": "normal",
+          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+          "isSource": true,
+          "original": {
+            "type": "color",
+            "value": "#b4530933",
+            "blendMode": "normal"
+          },
+          "name": "cjibColorDarkBorderWarning20",
+          "attributes": {},
+          "path": [
+            "cjib-color",
+            "dark",
+            "border",
+            "warning20"
+          ]
+        },
+        "danger20": {
+          "type": "color",
+          "value": "#b91c1c33",
+          "blendMode": "normal",
+          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+          "isSource": true,
+          "original": {
+            "type": "color",
+            "value": "#b91c1c33",
+            "blendMode": "normal"
+          },
+          "name": "cjibColorDarkBorderDanger20",
+          "attributes": {},
+          "path": [
+            "cjib-color",
+            "dark",
+            "border",
+            "danger20"
+          ]
+        },
+        "success20": {
+          "type": "color",
+          "value": "#04785733",
+          "blendMode": "normal",
+          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+          "isSource": true,
+          "original": {
+            "type": "color",
+            "value": "#04785733",
+            "blendMode": "normal"
+          },
+          "name": "cjibColorDarkBorderSuccess20",
+          "attributes": {},
+          "path": [
+            "cjib-color",
+            "dark",
+            "border",
+            "success20"
+          ]
+        },
+        "info20": {
+          "type": "color",
+          "value": "#007bc733",
+          "blendMode": "normal",
+          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+          "isSource": true,
+          "original": {
+            "type": "color",
+            "value": "#007bc733",
+            "blendMode": "normal"
+          },
+          "name": "cjibColorDarkBorderInfo20",
+          "attributes": {},
+          "path": [
+            "cjib-color",
+            "dark",
+            "border",
+            "info20"
           ]
         }
       },
@@ -6386,12 +6762,12 @@ module.exports = {
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.interaction.on-color}"
+            "value": "{cjib-color.dark._base - colors.mapping.interaction.on-color}"
           },
-          "name": "colorDarkIconOnColor",
+          "name": "cjibColorDarkIconOnColor",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "icon",
             "on-color"
@@ -6399,17 +6775,17 @@ module.exports = {
         },
         "base": {
           "type": "color",
-          "value": "#bdc5d0ff",
+          "value": "#cbd5e180",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.interaction.secondary-40}"
+            "value": "{cjib-color.dark._base - colors.mapping.interaction.medium-emphasis}"
           },
-          "name": "colorDarkIconBase",
+          "name": "cjibColorDarkIconBase",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "icon",
             "base"
@@ -6417,17 +6793,17 @@ module.exports = {
         },
         "danger": {
           "type": "color",
-          "value": "#af0020ff",
+          "value": "#b91c1cff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.danger-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.danger-01}"
           },
-          "name": "colorDarkIconDanger",
+          "name": "cjibColorDarkIconDanger",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "icon",
             "danger"
@@ -6440,12 +6816,12 @@ module.exports = {
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.info-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.info-01}"
           },
-          "name": "colorDarkIconInfo",
+          "name": "cjibColorDarkIconInfo",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "icon",
             "info"
@@ -6453,17 +6829,17 @@ module.exports = {
         },
         "success": {
           "type": "color",
-          "value": "#0a9c58ff",
+          "value": "#047857ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.success-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.success-01}"
           },
-          "name": "colorDarkIconSuccess",
+          "name": "cjibColorDarkIconSuccess",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "icon",
             "success"
@@ -6471,17 +6847,17 @@ module.exports = {
         },
         "warning": {
           "type": "color",
-          "value": "#fe9e02ff",
+          "value": "#b45309ff",
           "filePath": "src/lib/__tokens__/adelyn.tokens.json",
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.mapping.alert.warning-01}"
+            "value": "{cjib-color.dark._base - colors.mapping.alert.warning-01}"
           },
-          "name": "colorDarkIconWarning",
+          "name": "cjibColorDarkIconWarning",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "icon",
             "warning"
@@ -6493,17 +6869,17 @@ module.exports = {
           "border": {
             "border-00": {
               "type": "color",
-              "value": "#242c37ff",
+              "value": "#1e293bff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.10}"
+                "value": "{cjib-color.dark._base - colors.ramps.slate.800}"
               },
-              "name": "colorDarkBaseColorsMappingBorderBorder00",
+              "name": "cjibColorDarkBaseColorsMappingBorderBorder00",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6513,17 +6889,17 @@ module.exports = {
             },
             "border-01": {
               "type": "color",
-              "value": "#374253ff",
+              "value": "#0f172aff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.20}"
+                "value": "{cjib-color.dark._base - colors.ramps.slate.900}"
               },
-              "name": "colorDarkBaseColorsMappingBorderBorder01",
+              "name": "cjibColorDarkBaseColorsMappingBorderBorder01",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6533,17 +6909,17 @@ module.exports = {
             },
             "border-02": {
               "type": "color",
-              "value": "#5b6e8aff",
+              "value": "#94a3b8ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.slate.400}"
               },
-              "name": "colorDarkBaseColorsMappingBorderBorder02",
+              "name": "cjibColorDarkBaseColorsMappingBorderBorder02",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6555,17 +6931,17 @@ module.exports = {
           "interaction": {
             "primary-40": {
               "type": "color",
-              "value": "#007bc7ff",
+              "value": "#66b0ddff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.ro - hemelblauw.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.ro - hemelblauw.400}"
               },
-              "name": "colorDarkBaseColorsMappingInteractionPrimary40",
+              "name": "cjibColorDarkBaseColorsMappingInteractionPrimary40",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6575,17 +6951,17 @@ module.exports = {
             },
             "secondary-40": {
               "type": "color",
-              "value": "#bdc5d0ff",
+              "value": "#94a3b8ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.80}"
+                "value": "{cjib-color.dark._base - colors.ramps.slate.400}"
               },
-              "name": "colorDarkBaseColorsMappingInteractionSecondary40",
+              "name": "cjibColorDarkBaseColorsMappingInteractionSecondary40",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6600,34 +6976,56 @@ module.exports = {
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.white}"
+                "value": "{cjib-color.dark._base - colors.white}"
               },
-              "name": "colorDarkBaseColorsMappingInteractionOnColor",
+              "name": "cjibColorDarkBaseColorsMappingInteractionOnColor",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
                 "interaction",
                 "on-color"
               ]
+            },
+            "medium-emphasis": {
+              "type": "color",
+              "value": "#cbd5e180",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#cbd5e180",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsMappingInteractionMediumEmphasis",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "mapping",
+                "interaction",
+                "medium-emphasis"
+              ]
             }
           },
           "surface": {
             "app": {
               "type": "color",
-              "value": "#242c37ff",
+              "value": "#18181bff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.10}"
+                "value": "{cjib-color.dark._base - colors.ramps.zinc.900}"
               },
-              "name": "colorDarkBaseColorsMappingSurfaceApp",
+              "name": "cjibColorDarkBaseColorsMappingSurfaceApp",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6635,39 +7033,39 @@ module.exports = {
                 "app"
               ]
             },
-            "card": {
+            "component-bg": {
               "type": "color",
-              "value": "#000000ff",
+              "value": "#18181bff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.black}"
+                "value": "{cjib-color.dark._base - colors.ramps.zinc.900}"
               },
-              "name": "colorDarkBaseColorsMappingSurfaceCard",
+              "name": "cjibColorDarkBaseColorsMappingSurfaceComponentBg",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
                 "surface",
-                "card"
+                "component-bg"
               ]
             },
             "success-00": {
               "type": "color",
-              "value": "#e6f5eeff",
+              "value": "#022c22ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.jade.95}"
+                "value": "{cjib-color.dark._base - colors.ramps.emerald.950}"
               },
-              "name": "colorDarkBaseColorsMappingSurfaceSuccess00",
+              "name": "cjibColorDarkBaseColorsMappingSurfaceSuccess00",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6677,17 +7075,17 @@ module.exports = {
             },
             "success-01": {
               "type": "color",
-              "value": "#ceebdeff",
+              "value": "#065f46ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.jade.90}"
+                "value": "{cjib-color.dark._base - colors.ramps.emerald.800}"
               },
-              "name": "colorDarkBaseColorsMappingSurfaceSuccess01",
+              "name": "cjibColorDarkBaseColorsMappingSurfaceSuccess01",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6697,17 +7095,17 @@ module.exports = {
             },
             "success-10": {
               "type": "color",
-              "value": "#0a9c58ff",
+              "value": "#047857ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.jade.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.emerald.700}"
               },
-              "name": "colorDarkBaseColorsMappingSurfaceSuccess10",
+              "name": "cjibColorDarkBaseColorsMappingSurfaceSuccess10",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6717,17 +7115,17 @@ module.exports = {
             },
             "warning-00": {
               "type": "color",
-              "value": "#fff5e6ff",
+              "value": "#451a03ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.squash.95}"
+                "value": "{cjib-color.dark._base - colors.ramps.amber.950}"
               },
-              "name": "colorDarkBaseColorsMappingSurfaceWarning00",
+              "name": "cjibColorDarkBaseColorsMappingSurfaceWarning00",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6737,17 +7135,17 @@ module.exports = {
             },
             "warning-01": {
               "type": "color",
-              "value": "#ffecccff",
+              "value": "#92400eff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.squash.90}"
+                "value": "{cjib-color.dark._base - colors.ramps.amber.800}"
               },
-              "name": "colorDarkBaseColorsMappingSurfaceWarning01",
+              "name": "cjibColorDarkBaseColorsMappingSurfaceWarning01",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6757,17 +7155,17 @@ module.exports = {
             },
             "warning-10": {
               "type": "color",
-              "value": "#fe9e02ff",
+              "value": "#b45309ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.squash.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.amber.700}"
               },
-              "name": "colorDarkBaseColorsMappingSurfaceWarning10",
+              "name": "cjibColorDarkBaseColorsMappingSurfaceWarning10",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6777,17 +7175,17 @@ module.exports = {
             },
             "danger-00": {
               "type": "color",
-              "value": "#f7e5e9ff",
+              "value": "#450a0aff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.scarlet.95}"
+                "value": "{cjib-color.dark._base - colors.ramps.red.950}"
               },
-              "name": "colorDarkBaseColorsMappingSurfaceDanger00",
+              "name": "cjibColorDarkBaseColorsMappingSurfaceDanger00",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6797,17 +7195,17 @@ module.exports = {
             },
             "danger-01": {
               "type": "color",
-              "value": "#efccd2ff",
+              "value": "#991b1bff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.scarlet.90}"
+                "value": "{cjib-color.dark._base - colors.ramps.red.800}"
               },
-              "name": "colorDarkBaseColorsMappingSurfaceDanger01",
+              "name": "cjibColorDarkBaseColorsMappingSurfaceDanger01",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6817,17 +7215,17 @@ module.exports = {
             },
             "danger-10": {
               "type": "color",
-              "value": "#af0020ff",
+              "value": "#b91c1cff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.scarlet.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.red.700}"
               },
-              "name": "colorDarkBaseColorsMappingSurfaceDanger10",
+              "name": "cjibColorDarkBaseColorsMappingSurfaceDanger10",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6837,17 +7235,17 @@ module.exports = {
             },
             "info-00": {
               "type": "color",
-              "value": "#e5f2f9ff",
+              "value": "#003150ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.ro - hemelblauw.95}"
+                "value": "{cjib-color.dark._base - colors.ramps.ro - hemelblauw.950}"
               },
-              "name": "colorDarkBaseColorsMappingSurfaceInfo00",
+              "name": "cjibColorDarkBaseColorsMappingSurfaceInfo00",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6857,17 +7255,17 @@ module.exports = {
             },
             "info-01": {
               "type": "color",
-              "value": "#cce5f4ff",
+              "value": "#00568bff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.ro - hemelblauw.90}"
+                "value": "{cjib-color.dark._base - colors.ramps.ro - hemelblauw.800}"
               },
-              "name": "colorDarkBaseColorsMappingSurfaceInfo01",
+              "name": "cjibColorDarkBaseColorsMappingSurfaceInfo01",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6882,12 +7280,12 @@ module.exports = {
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.ro - hemelblauw.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.ro - hemelblauw.700}"
               },
-              "name": "colorDarkBaseColorsMappingSurfaceInfo10",
+              "name": "cjibColorDarkBaseColorsMappingSurfaceInfo10",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6897,17 +7295,17 @@ module.exports = {
             },
             "neutral-00": {
               "type": "color",
-              "value": "#eff0f3ff",
+              "value": "#09090bff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.95}"
+                "value": "{cjib-color.dark._base - colors.ramps.zinc.950}"
               },
-              "name": "colorDarkBaseColorsMappingSurfaceNeutral00",
+              "name": "cjibColorDarkBaseColorsMappingSurfaceNeutral00",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6917,17 +7315,17 @@ module.exports = {
             },
             "neutral-01": {
               "type": "color",
-              "value": "#dee2e8ff",
+              "value": "#27272aff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.90}"
+                "value": "{cjib-color.dark._base - colors.ramps.zinc.800}"
               },
-              "name": "colorDarkBaseColorsMappingSurfaceNeutral01",
+              "name": "cjibColorDarkBaseColorsMappingSurfaceNeutral01",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6937,17 +7335,17 @@ module.exports = {
             },
             "neutral-10": {
               "type": "color",
-              "value": "#5b6e8aff",
+              "value": "#3f3f46ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.zinc.700}"
               },
-              "name": "colorDarkBaseColorsMappingSurfaceNeutral10",
+              "name": "cjibColorDarkBaseColorsMappingSurfaceNeutral10",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6957,17 +7355,17 @@ module.exports = {
             },
             "background-from": {
               "type": "color",
-              "value": "#242c37ff",
+              "value": "#09090bff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.10}"
+                "value": "{cjib-color.dark._base - colors.ramps.zinc.950}"
               },
-              "name": "colorDarkBaseColorsMappingSurfaceBackgroundFrom",
+              "name": "cjibColorDarkBaseColorsMappingSurfaceBackgroundFrom",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6977,17 +7375,17 @@ module.exports = {
             },
             "background-to": {
               "type": "color",
-              "value": "#000000ff",
+              "value": "#18181bff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.black}"
+                "value": "{cjib-color.dark._base - colors.ramps.zinc.900}"
               },
-              "name": "colorDarkBaseColorsMappingSurfaceBackgroundTo",
+              "name": "cjibColorDarkBaseColorsMappingSurfaceBackgroundTo",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -6995,41 +7393,41 @@ module.exports = {
                 "background-to"
               ]
             },
-            "input": {
+            "input-bg": {
               "type": "color",
-              "value": "#242c37ff",
+              "value": "#18181bff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.10}"
+                "value": "{cjib-color.dark._base - colors.ramps.zinc.900}"
               },
-              "name": "colorDarkBaseColorsMappingSurfaceInput",
+              "name": "cjibColorDarkBaseColorsMappingSurfaceInputBg",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
                 "surface",
-                "input"
+                "input-bg"
               ]
             }
           },
           "text": {
             "base": {
               "type": "color",
-              "value": "#dee2e8ff",
+              "value": "#f1f5f9ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.90}"
+                "value": "{cjib-color.dark._base - colors.ramps.slate.100}"
               },
-              "name": "colorDarkBaseColorsMappingTextBase",
+              "name": "cjibColorDarkBaseColorsMappingTextBase",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -7044,12 +7442,12 @@ module.exports = {
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.white}"
+                "value": "{cjib-color.dark._base - colors.white}"
               },
-              "name": "colorDarkBaseColorsMappingTextOnColor",
+              "name": "cjibColorDarkBaseColorsMappingTextOnColor",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -7059,17 +7457,17 @@ module.exports = {
             },
             "secondary": {
               "type": "color",
-              "value": "#8c99adff",
+              "value": "#94a3b8ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.nlds - grijs.60}"
+                "value": "{cjib-color.dark._base - colors.ramps.slate.400}"
               },
-              "name": "colorDarkBaseColorsMappingTextSecondary",
+              "name": "cjibColorDarkBaseColorsMappingTextSecondary",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -7086,12 +7484,12 @@ module.exports = {
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.ro - hemelblauw.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.ro - hemelblauw.700}"
               },
-              "name": "colorDarkBaseColorsMappingAlertInfo01",
+              "name": "cjibColorDarkBaseColorsMappingAlertInfo01",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -7101,17 +7499,17 @@ module.exports = {
             },
             "success-01": {
               "type": "color",
-              "value": "#0a9c58ff",
+              "value": "#047857ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.jade.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.emerald.700}"
               },
-              "name": "colorDarkBaseColorsMappingAlertSuccess01",
+              "name": "cjibColorDarkBaseColorsMappingAlertSuccess01",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -7121,17 +7519,17 @@ module.exports = {
             },
             "warning-01": {
               "type": "color",
-              "value": "#fe9e02ff",
+              "value": "#b45309ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.squash.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.amber.700}"
               },
-              "name": "colorDarkBaseColorsMappingAlertWarning01",
+              "name": "cjibColorDarkBaseColorsMappingAlertWarning01",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -7141,17 +7539,17 @@ module.exports = {
             },
             "danger-01": {
               "type": "color",
-              "value": "#af0020ff",
+              "value": "#b91c1cff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.scarlet.40}"
+                "value": "{cjib-color.dark._base - colors.ramps.red.700}"
               },
-              "name": "colorDarkBaseColorsMappingAlertDanger01",
+              "name": "cjibColorDarkBaseColorsMappingAlertDanger01",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -7166,12 +7564,12 @@ module.exports = {
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.ro - hemelblauw.30}"
+                "value": "{cjib-color.dark._base - colors.ramps.ro - hemelblauw.800}"
               },
-              "name": "colorDarkBaseColorsMappingAlertInfo02",
+              "name": "cjibColorDarkBaseColorsMappingAlertInfo02",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -7181,17 +7579,17 @@ module.exports = {
             },
             "success-02": {
               "type": "color",
-              "value": "#076d3eff",
+              "value": "#065f46ff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.jade.30}"
+                "value": "{cjib-color.dark._base - colors.ramps.emerald.800}"
               },
-              "name": "colorDarkBaseColorsMappingAlertSuccess02",
+              "name": "cjibColorDarkBaseColorsMappingAlertSuccess02",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -7201,17 +7599,17 @@ module.exports = {
             },
             "warning-02": {
               "type": "color",
-              "value": "#b26f01ff",
+              "value": "#92400eff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.squash.30}"
+                "value": "{cjib-color.dark._base - colors.ramps.amber.800}"
               },
-              "name": "colorDarkBaseColorsMappingAlertWarning02",
+              "name": "cjibColorDarkBaseColorsMappingAlertWarning02",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
@@ -7221,22 +7619,162 @@ module.exports = {
             },
             "danger-02": {
               "type": "color",
-              "value": "#7b0016ff",
+              "value": "#991b1bff",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "{color.dark._base - colors.ramps.scarlet.30}"
+                "value": "{cjib-color.dark._base - colors.ramps.red.800}"
               },
-              "name": "colorDarkBaseColorsMappingAlertDanger02",
+              "name": "cjibColorDarkBaseColorsMappingAlertDanger02",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "mapping",
                 "alert",
                 "danger-02"
+              ]
+            },
+            "neutral-01": {
+              "type": "color",
+              "value": "#334155ff",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "{cjib-color.dark._base - colors.ramps.slate.700}"
+              },
+              "name": "cjibColorDarkBaseColorsMappingAlertNeutral01",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "mapping",
+                "alert",
+                "neutral-01"
+              ]
+            },
+            "neutral-02": {
+              "type": "color",
+              "value": "#1e293bff",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "{cjib-color.dark._base - colors.ramps.slate.800}"
+              },
+              "name": "cjibColorDarkBaseColorsMappingAlertNeutral02",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "mapping",
+                "alert",
+                "neutral-02"
+              ]
+            },
+            "success-00": {
+              "type": "color",
+              "value": "#10b981ff",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "{cjib-color.dark._base - colors.ramps.emerald.500}"
+              },
+              "name": "cjibColorDarkBaseColorsMappingAlertSuccess00",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "mapping",
+                "alert",
+                "success-00"
+              ]
+            },
+            "warning-00": {
+              "type": "color",
+              "value": "#f59e0bff",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "{cjib-color.dark._base - colors.ramps.amber.500}"
+              },
+              "name": "cjibColorDarkBaseColorsMappingAlertWarning00",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "mapping",
+                "alert",
+                "warning-00"
+              ]
+            },
+            "danger-00": {
+              "type": "color",
+              "value": "#ef4444ff",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "{cjib-color.dark._base - colors.ramps.red.500}"
+              },
+              "name": "cjibColorDarkBaseColorsMappingAlertDanger00",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "mapping",
+                "alert",
+                "danger-00"
+              ]
+            },
+            "neutral-00": {
+              "type": "color",
+              "value": "#64748bff",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "{cjib-color.dark._base - colors.ramps.slate.500}"
+              },
+              "name": "cjibColorDarkBaseColorsMappingAlertNeutral00",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "mapping",
+                "alert",
+                "neutral-00"
+              ]
+            },
+            "info-00": {
+              "type": "color",
+              "value": "#4ca3d8ff",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "{cjib-color.dark._base - colors.ramps.ro - hemelblauw.500}"
+              },
+              "name": "cjibColorDarkBaseColorsMappingAlertInfo00",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "mapping",
+                "alert",
+                "info-00"
               ]
             }
           }
@@ -7252,10 +7790,10 @@ module.exports = {
             "value": "#3c204bff",
             "blendMode": "normal"
           },
-          "name": "colorDarkBaseColorsAdelyn",
+          "name": "cjibColorDarkBaseColorsAdelyn",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "_base - colors",
             "adelyn"
@@ -7272,992 +7810,506 @@ module.exports = {
             "value": "#000000ff",
             "blendMode": "normal"
           },
-          "name": "colorDarkBaseColorsBlack",
+          "name": "cjibColorDarkBaseColorsBlack",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "_base - colors",
             "black"
           ]
         },
-        "jade": {
-          "type": "color",
-          "value": "#0a9c58ff",
-          "blendMode": "normal",
-          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-          "isSource": true,
-          "original": {
-            "type": "color",
-            "value": "#0a9c58ff",
-            "blendMode": "normal"
-          },
-          "name": "colorDarkBaseColorsJade",
-          "attributes": {},
-          "path": [
-            "color",
-            "dark",
-            "_base - colors",
-            "jade"
-          ]
-        },
-        "mixin": {
-          "black": {
-            "10": {
-              "type": "color",
-              "value": "#00000099",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#00000099",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsMixinBlack10",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "mixin",
-                "black",
-                "10"
-              ]
-            },
-            "20": {
-              "type": "color",
-              "value": "#00000066",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#00000066",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsMixinBlack20",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "mixin",
-                "black",
-                "20"
-              ]
-            },
-            "30": {
-              "type": "color",
-              "value": "#0000004d",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#0000004d",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsMixinBlack30",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "mixin",
-                "black",
-                "30"
-              ]
-            }
-          },
-          "white": {
-            "50": {
-              "type": "color",
-              "value": "#ffffff33",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#ffffff33",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsMixinWhite50",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "mixin",
-                "white",
-                "50"
-              ]
-            },
-            "60": {
-              "type": "color",
-              "value": "#ffffff4d",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#ffffff4d",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsMixinWhite60",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "mixin",
-                "white",
-                "60"
-              ]
-            },
-            "70": {
-              "type": "color",
-              "value": "#ffffff66",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#ffffff66",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsMixinWhite70",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "mixin",
-                "white",
-                "70"
-              ]
-            },
-            "80": {
-              "type": "color",
-              "value": "#ffffff99",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#ffffff99",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsMixinWhite80",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "mixin",
-                "white",
-                "80"
-              ]
-            },
-            "90": {
-              "type": "color",
-              "value": "#ffffffcc",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#ffffffcc",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsMixinWhite90",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "mixin",
-                "white",
-                "90"
-              ]
-            },
-            "95": {
-              "type": "color",
-              "value": "#ffffffe6",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#ffffffe6",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsMixinWhite95",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "mixin",
-                "white",
-                "95"
-              ]
-            },
-            "99": {
-              "type": "color",
-              "value": "#fffffff7",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#fffffff7",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsMixinWhite99",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "mixin",
-                "white",
-                "99"
-              ]
-            }
-          }
-        },
-        "nlds - grijs": {
-          "type": "color",
-          "value": "#5b6e8aff",
-          "blendMode": "normal",
-          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-          "isSource": true,
-          "original": {
-            "type": "color",
-            "value": "#5b6e8aff",
-            "blendMode": "normal"
-          },
-          "name": "colorDarkBaseColorsNldsGrijs",
-          "attributes": {},
-          "path": [
-            "color",
-            "dark",
-            "_base - colors",
-            "nlds - grijs"
-          ]
-        },
         "ramps": {
-          "jade": {
-            "10": {
-              "type": "color",
-              "value": "#043e23ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#043e23ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsJade10",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "jade",
-                "10"
-              ]
-            },
-            "20": {
-              "type": "color",
-              "value": "#065e35ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#065e35ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsJade20",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "jade",
-                "20"
-              ]
-            },
-            "30": {
-              "type": "color",
-              "value": "#076d3eff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#076d3eff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsJade30",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "jade",
-                "30"
-              ]
-            },
-            "40": {
-              "type": "color",
-              "value": "#0a9c58ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#0a9c58ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsJade40",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "jade",
-                "40"
-              ]
-            },
+          "emerald": {
             "50": {
               "type": "color",
-              "value": "#3bb079ff",
+              "value": "#ecfdf5ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#3bb079ff",
+                "value": "#ecfdf5ff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsJade50",
+              "name": "cjibColorDarkBaseColorsRampsEmerald50",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "jade",
+                "emerald",
                 "50"
               ]
             },
-            "60": {
+            "100": {
               "type": "color",
-              "value": "#53ba8aff",
+              "value": "#d1fae5ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#53ba8aff",
+                "value": "#d1fae5ff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsJade60",
+              "name": "cjibColorDarkBaseColorsRampsEmerald100",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "jade",
-                "60"
+                "emerald",
+                "100"
               ]
             },
-            "70": {
+            "200": {
               "type": "color",
-              "value": "#6cc49bff",
+              "value": "#a7f3d0ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#6cc49bff",
+                "value": "#a7f3d0ff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsJade70",
+              "name": "cjibColorDarkBaseColorsRampsEmerald200",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "jade",
-                "70"
+                "emerald",
+                "200"
               ]
             },
-            "80": {
+            "300": {
               "type": "color",
-              "value": "#9dd7bcff",
+              "value": "#6ee7b7ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#9dd7bcff",
+                "value": "#6ee7b7ff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsJade80",
+              "name": "cjibColorDarkBaseColorsRampsEmerald300",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "jade",
-                "80"
+                "emerald",
+                "300"
               ]
             },
-            "90": {
+            "400": {
               "type": "color",
-              "value": "#ceebdeff",
+              "value": "#34d399ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#ceebdeff",
+                "value": "#34d399ff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsJade90",
+              "name": "cjibColorDarkBaseColorsRampsEmerald400",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "jade",
-                "90"
+                "emerald",
+                "400"
               ]
             },
-            "95": {
+            "500": {
               "type": "color",
-              "value": "#e6f5eeff",
+              "value": "#10b981ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#e6f5eeff",
+                "value": "#10b981ff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsJade95",
+              "name": "cjibColorDarkBaseColorsRampsEmerald500",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "jade",
-                "95"
+                "emerald",
+                "500"
               ]
             },
-            "99": {
+            "600": {
               "type": "color",
-              "value": "#f8fcfaff",
+              "value": "#059669ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#f8fcfaff",
+                "value": "#059669ff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsJade99",
+              "name": "cjibColorDarkBaseColorsRampsEmerald600",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "jade",
-                "99"
+                "emerald",
+                "600"
+              ]
+            },
+            "700": {
+              "type": "color",
+              "value": "#047857ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#047857ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsEmerald700",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "emerald",
+                "700"
+              ]
+            },
+            "800": {
+              "type": "color",
+              "value": "#065f46ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#065f46ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsEmerald800",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "emerald",
+                "800"
+              ]
+            },
+            "900": {
+              "type": "color",
+              "value": "#064e3bff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#064e3bff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsEmerald900",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "emerald",
+                "900"
+              ]
+            },
+            "950": {
+              "type": "color",
+              "value": "#022c22ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#022c22ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsEmerald950",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "emerald",
+                "950"
               ]
             }
           },
-          "nlds - grijs": {
-            "10": {
-              "type": "color",
-              "value": "#242c37ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#242c37ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsNldsGrijs10",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "nlds - grijs",
-                "10"
-              ]
-            },
-            "20": {
-              "type": "color",
-              "value": "#374253ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#374253ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsNldsGrijs20",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "nlds - grijs",
-                "20"
-              ]
-            },
-            "30": {
-              "type": "color",
-              "value": "#404d61ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#404d61ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsNldsGrijs30",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "nlds - grijs",
-                "30"
-              ]
-            },
-            "40": {
-              "type": "color",
-              "value": "#5b6e8aff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#5b6e8aff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsNldsGrijs40",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "nlds - grijs",
-                "40"
-              ]
-            },
+          "zinc": {
             "50": {
               "type": "color",
-              "value": "#7c8ba1ff",
+              "value": "#fafafaff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#7c8ba1ff",
+                "value": "#fafafaff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsNldsGrijs50",
+              "name": "cjibColorDarkBaseColorsRampsZinc50",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "nlds - grijs",
+                "zinc",
                 "50"
               ]
             },
-            "60": {
+            "100": {
               "type": "color",
-              "value": "#8c99adff",
+              "value": "#f4f4f5ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#8c99adff",
+                "value": "#f4f4f5ff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsNldsGrijs60",
+              "name": "cjibColorDarkBaseColorsRampsZinc100",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "nlds - grijs",
-                "60"
+                "zinc",
+                "100"
               ]
             },
-            "70": {
+            "200": {
               "type": "color",
-              "value": "#9da8b9ff",
+              "value": "#e4e4e7ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#9da8b9ff",
+                "value": "#e4e4e7ff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsNldsGrijs70",
+              "name": "cjibColorDarkBaseColorsRampsZinc200",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "nlds - grijs",
-                "70"
+                "zinc",
+                "200"
               ]
             },
-            "80": {
+            "300": {
               "type": "color",
-              "value": "#bdc5d0ff",
+              "value": "#d4d4d8ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#bdc5d0ff",
+                "value": "#d4d4d8ff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsNldsGrijs80",
+              "name": "cjibColorDarkBaseColorsRampsZinc300",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "nlds - grijs",
-                "80"
+                "zinc",
+                "300"
               ]
             },
-            "90": {
+            "400": {
               "type": "color",
-              "value": "#dee2e8ff",
+              "value": "#a1a1aaff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#dee2e8ff",
+                "value": "#a1a1aaff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsNldsGrijs90",
+              "name": "cjibColorDarkBaseColorsRampsZinc400",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "nlds - grijs",
-                "90"
+                "zinc",
+                "400"
               ]
             },
-            "95": {
+            "500": {
               "type": "color",
-              "value": "#eff0f3ff",
+              "value": "#71717aff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#eff0f3ff",
+                "value": "#71717aff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsNldsGrijs95",
+              "name": "cjibColorDarkBaseColorsRampsZinc500",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "nlds - grijs",
-                "95"
+                "zinc",
+                "500"
               ]
             },
-            "99": {
+            "600": {
               "type": "color",
-              "value": "#fafbfbff",
+              "value": "#52525bff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#fafbfbff",
+                "value": "#52525bff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsNldsGrijs99",
+              "name": "cjibColorDarkBaseColorsRampsZinc600",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "nlds - grijs",
-                "99"
+                "zinc",
+                "600"
+              ]
+            },
+            "700": {
+              "type": "color",
+              "value": "#3f3f46ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#3f3f46ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsZinc700",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "zinc",
+                "700"
+              ]
+            },
+            "800": {
+              "type": "color",
+              "value": "#27272aff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#27272aff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsZinc800",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "zinc",
+                "800"
+              ]
+            },
+            "900": {
+              "type": "color",
+              "value": "#18181bff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#18181bff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsZinc900",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "zinc",
+                "900"
+              ]
+            },
+            "950": {
+              "type": "color",
+              "value": "#09090bff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#09090bff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsZinc950",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "zinc",
+                "950"
               ]
             }
           },
           "ro - hemelblauw": {
-            "10": {
-              "type": "color",
-              "value": "#003150ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#003150ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsRoHemelblauw10",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "ro - hemelblauw",
-                "10"
-              ]
-            },
-            "20": {
-              "type": "color",
-              "value": "#004a77ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#004a77ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsRoHemelblauw20",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "ro - hemelblauw",
-                "20"
-              ]
-            },
-            "30": {
-              "type": "color",
-              "value": "#00568bff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#00568bff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsRoHemelblauw30",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "ro - hemelblauw",
-                "30"
-              ]
-            },
-            "40": {
-              "type": "color",
-              "value": "#007bc7ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#007bc7ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsRoHemelblauw40",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "ro - hemelblauw",
-                "40"
-              ]
-            },
             "50": {
-              "type": "color",
-              "value": "#3395d2ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#3395d2ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsRoHemelblauw50",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "ro - hemelblauw",
-                "50"
-              ]
-            },
-            "60": {
-              "type": "color",
-              "value": "#4ca3d8ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#4ca3d8ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsRoHemelblauw60",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "ro - hemelblauw",
-                "60"
-              ]
-            },
-            "70": {
-              "type": "color",
-              "value": "#66b0ddff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#66b0ddff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsRoHemelblauw70",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "ro - hemelblauw",
-                "70"
-              ]
-            },
-            "80": {
-              "type": "color",
-              "value": "#99cae9ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#99cae9ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsRoHemelblauw80",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "ro - hemelblauw",
-                "80"
-              ]
-            },
-            "90": {
-              "type": "color",
-              "value": "#cce5f4ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#cce5f4ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsRoHemelblauw90",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "ro - hemelblauw",
-                "90"
-              ]
-            },
-            "95": {
-              "type": "color",
-              "value": "#e5f2f9ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#e5f2f9ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsRoHemelblauw95",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "ro - hemelblauw",
-                "95"
-              ]
-            },
-            "99": {
               "type": "color",
               "value": "#f7fbfdff",
               "blendMode": "normal",
@@ -8268,240 +8320,240 @@ module.exports = {
                 "value": "#f7fbfdff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsRoHemelblauw99",
+              "name": "cjibColorDarkBaseColorsRampsRoHemelblauw50",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
                 "ro - hemelblauw",
-                "99"
+                "50"
+              ]
+            },
+            "100": {
+              "type": "color",
+              "value": "#e5f2f9ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#e5f2f9ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsRoHemelblauw100",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "ro - hemelblauw",
+                "100"
+              ]
+            },
+            "200": {
+              "type": "color",
+              "value": "#cce5f4ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#cce5f4ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsRoHemelblauw200",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "ro - hemelblauw",
+                "200"
+              ]
+            },
+            "300": {
+              "type": "color",
+              "value": "#99cae9ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#99cae9ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsRoHemelblauw300",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "ro - hemelblauw",
+                "300"
+              ]
+            },
+            "400": {
+              "type": "color",
+              "value": "#66b0ddff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#66b0ddff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsRoHemelblauw400",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "ro - hemelblauw",
+                "400"
+              ]
+            },
+            "500": {
+              "type": "color",
+              "value": "#4ca3d8ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#4ca3d8ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsRoHemelblauw500",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "ro - hemelblauw",
+                "500"
+              ]
+            },
+            "600": {
+              "type": "color",
+              "value": "#3395d2ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#3395d2ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsRoHemelblauw600",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "ro - hemelblauw",
+                "600"
+              ]
+            },
+            "700": {
+              "type": "color",
+              "value": "#007bc7ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#007bc7ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsRoHemelblauw700",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "ro - hemelblauw",
+                "700"
+              ]
+            },
+            "800": {
+              "type": "color",
+              "value": "#00568bff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#00568bff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsRoHemelblauw800",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "ro - hemelblauw",
+                "800"
+              ]
+            },
+            "900": {
+              "type": "color",
+              "value": "#004a77ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#004a77ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsRoHemelblauw900",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "ro - hemelblauw",
+                "900"
+              ]
+            },
+            "950": {
+              "type": "color",
+              "value": "#003150ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#003150ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsRoHemelblauw950",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "ro - hemelblauw",
+                "950"
               ]
             }
           },
           "ro - paars": {
-            "10": {
-              "type": "color",
-              "value": "#1a0826ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#1a0826ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsRoPaars10",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "ro - paars",
-                "10"
-              ]
-            },
-            "20": {
-              "type": "color",
-              "value": "#280c39ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#280c39ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsRoPaars20",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "ro - paars",
-                "20"
-              ]
-            },
-            "30": {
-              "type": "color",
-              "value": "#2e0e43ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#2e0e43ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsRoPaars30",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "ro - paars",
-                "30"
-              ]
-            },
-            "40": {
-              "type": "color",
-              "value": "#42145fff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#42145fff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsRoPaars40",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "ro - paars",
-                "40"
-              ]
-            },
             "50": {
-              "type": "color",
-              "value": "#68437fff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#68437fff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsRoPaars50",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "ro - paars",
-                "50"
-              ]
-            },
-            "60": {
-              "type": "color",
-              "value": "#7b5a8fff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#7b5a8fff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsRoPaars60",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "ro - paars",
-                "60"
-              ]
-            },
-            "70": {
-              "type": "color",
-              "value": "#8e729fff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#8e729fff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsRoPaars70",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "ro - paars",
-                "70"
-              ]
-            },
-            "80": {
-              "type": "color",
-              "value": "#b3a1bfff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#b3a1bfff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsRoPaars80",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "ro - paars",
-                "80"
-              ]
-            },
-            "90": {
-              "type": "color",
-              "value": "#d9d0dfff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#d9d0dfff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsRoPaars90",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "ro - paars",
-                "90"
-              ]
-            },
-            "95": {
-              "type": "color",
-              "value": "#ece7efff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#ece7efff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsRoPaars95",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "ro - paars",
-                "95"
-              ]
-            },
-            "99": {
               "type": "color",
               "value": "#f9f8faff",
               "blendMode": "normal",
@@ -8512,503 +8564,967 @@ module.exports = {
                 "value": "#f9f8faff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsRoPaars99",
+              "name": "cjibColorDarkBaseColorsRampsRoPaars50",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
                 "ro - paars",
-                "99"
-              ]
-            }
-          },
-          "scarlet": {
-            "10": {
-              "type": "color",
-              "value": "#46000dff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#46000dff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsScarlet10",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "scarlet",
-                "10"
-              ]
-            },
-            "20": {
-              "type": "color",
-              "value": "#690013ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#690013ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsScarlet20",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "scarlet",
-                "20"
-              ]
-            },
-            "30": {
-              "type": "color",
-              "value": "#7b0016ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#7b0016ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsScarlet30",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "scarlet",
-                "30"
-              ]
-            },
-            "40": {
-              "type": "color",
-              "value": "#af0020ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#af0020ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsScarlet40",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "scarlet",
-                "40"
-              ]
-            },
-            "50": {
-              "type": "color",
-              "value": "#bf334dff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#bf334dff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsScarlet50",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "scarlet",
                 "50"
               ]
             },
-            "60": {
+            "100": {
               "type": "color",
-              "value": "#c74c63ff",
+              "value": "#ece7efff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#c74c63ff",
+                "value": "#ece7efff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsScarlet60",
+              "name": "cjibColorDarkBaseColorsRampsRoPaars100",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "scarlet",
-                "60"
+                "ro - paars",
+                "100"
               ]
             },
-            "70": {
+            "200": {
               "type": "color",
-              "value": "#cf6679ff",
+              "value": "#d9d0dfff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#cf6679ff",
+                "value": "#d9d0dfff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsScarlet70",
+              "name": "cjibColorDarkBaseColorsRampsRoPaars200",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "scarlet",
-                "70"
+                "ro - paars",
+                "200"
               ]
             },
-            "80": {
+            "300": {
               "type": "color",
-              "value": "#df99a6ff",
+              "value": "#b3a1bfff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#df99a6ff",
+                "value": "#b3a1bfff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsScarlet80",
+              "name": "cjibColorDarkBaseColorsRampsRoPaars300",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "scarlet",
-                "80"
+                "ro - paars",
+                "300"
               ]
             },
-            "90": {
+            "400": {
               "type": "color",
-              "value": "#efccd2ff",
+              "value": "#8e729fff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#efccd2ff",
+                "value": "#8e729fff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsScarlet90",
+              "name": "cjibColorDarkBaseColorsRampsRoPaars400",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "scarlet",
-                "90"
+                "ro - paars",
+                "400"
               ]
             },
-            "95": {
+            "500": {
               "type": "color",
-              "value": "#f7e5e9ff",
+              "value": "#7b5a8fff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#f7e5e9ff",
+                "value": "#7b5a8fff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsScarlet95",
+              "name": "cjibColorDarkBaseColorsRampsRoPaars500",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "scarlet",
-                "95"
+                "ro - paars",
+                "500"
               ]
             },
-            "99": {
+            "600": {
               "type": "color",
-              "value": "#fdf7f8ff",
+              "value": "#68437fff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#fdf7f8ff",
+                "value": "#68437fff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsScarlet99",
+              "name": "cjibColorDarkBaseColorsRampsRoPaars600",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "scarlet",
-                "99"
+                "ro - paars",
+                "600"
+              ]
+            },
+            "700": {
+              "type": "color",
+              "value": "#42145fff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#42145fff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsRoPaars700",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "ro - paars",
+                "700"
+              ]
+            },
+            "800": {
+              "type": "color",
+              "value": "#2e0e43ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#2e0e43ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsRoPaars800",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "ro - paars",
+                "800"
+              ]
+            },
+            "900": {
+              "type": "color",
+              "value": "#280c39ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#280c39ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsRoPaars900",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "ro - paars",
+                "900"
+              ]
+            },
+            "950": {
+              "type": "color",
+              "value": "#1a0826ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#1a0826ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsRoPaars950",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "ro - paars",
+                "950"
               ]
             }
           },
-          "squash": {
-            "10": {
-              "type": "color",
-              "value": "#663f01ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#663f01ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsSquash10",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "squash",
-                "10"
-              ]
-            },
-            "20": {
-              "type": "color",
-              "value": "#985f01ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#985f01ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsSquash20",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "squash",
-                "20"
-              ]
-            },
-            "30": {
-              "type": "color",
-              "value": "#b26f01ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#b26f01ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsSquash30",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "squash",
-                "30"
-              ]
-            },
-            "40": {
-              "type": "color",
-              "value": "#fe9e02ff",
-              "blendMode": "normal",
-              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-              "isSource": true,
-              "original": {
-                "type": "color",
-                "value": "#fe9e02ff",
-                "blendMode": "normal"
-              },
-              "name": "colorDarkBaseColorsRampsSquash40",
-              "attributes": {},
-              "path": [
-                "color",
-                "dark",
-                "_base - colors",
-                "ramps",
-                "squash",
-                "40"
-              ]
-            },
+          "red": {
             "50": {
               "type": "color",
-              "value": "#feb135ff",
+              "value": "#fef2f2ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#feb135ff",
+                "value": "#fef2f2ff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsSquash50",
+              "name": "cjibColorDarkBaseColorsRampsRed50",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "squash",
+                "red",
                 "50"
               ]
             },
-            "60": {
+            "100": {
               "type": "color",
-              "value": "#febb4eff",
+              "value": "#fee2e2ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#febb4eff",
+                "value": "#fee2e2ff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsSquash60",
+              "name": "cjibColorDarkBaseColorsRampsRed100",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "squash",
-                "60"
+                "red",
+                "100"
               ]
             },
-            "70": {
+            "200": {
               "type": "color",
-              "value": "#fec567ff",
+              "value": "#fecacaff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#fec567ff",
+                "value": "#fecacaff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsSquash70",
+              "name": "cjibColorDarkBaseColorsRampsRed200",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "squash",
-                "70"
+                "red",
+                "200"
               ]
             },
-            "80": {
+            "300": {
               "type": "color",
-              "value": "#ffd89aff",
+              "value": "#fca5a5ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#ffd89aff",
+                "value": "#fca5a5ff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsSquash80",
+              "name": "cjibColorDarkBaseColorsRampsRed300",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "squash",
-                "80"
+                "red",
+                "300"
               ]
             },
-            "90": {
+            "400": {
               "type": "color",
-              "value": "#ffecccff",
+              "value": "#f87171ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#ffecccff",
+                "value": "#f87171ff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsSquash90",
+              "name": "cjibColorDarkBaseColorsRampsRed400",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "squash",
-                "90"
+                "red",
+                "400"
               ]
             },
-            "95": {
+            "500": {
               "type": "color",
-              "value": "#fff5e6ff",
+              "value": "#ef4444ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#fff5e6ff",
+                "value": "#ef4444ff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsSquash95",
+              "name": "cjibColorDarkBaseColorsRampsRed500",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "squash",
-                "95"
+                "red",
+                "500"
               ]
             },
-            "99": {
+            "600": {
               "type": "color",
-              "value": "#fffcf7ff",
+              "value": "#dc2626ff",
               "blendMode": "normal",
               "filePath": "src/lib/__tokens__/adelyn.tokens.json",
               "isSource": true,
               "original": {
                 "type": "color",
-                "value": "#fffcf7ff",
+                "value": "#dc2626ff",
                 "blendMode": "normal"
               },
-              "name": "colorDarkBaseColorsRampsSquash99",
+              "name": "cjibColorDarkBaseColorsRampsRed600",
               "attributes": {},
               "path": [
-                "color",
+                "cjib-color",
                 "dark",
                 "_base - colors",
                 "ramps",
-                "squash",
-                "99"
+                "red",
+                "600"
+              ]
+            },
+            "700": {
+              "type": "color",
+              "value": "#b91c1cff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#b91c1cff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsRed700",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "red",
+                "700"
+              ]
+            },
+            "800": {
+              "type": "color",
+              "value": "#991b1bff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#991b1bff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsRed800",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "red",
+                "800"
+              ]
+            },
+            "900": {
+              "type": "color",
+              "value": "#7f1d1dff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#7f1d1dff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsRed900",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "red",
+                "900"
+              ]
+            },
+            "950": {
+              "type": "color",
+              "value": "#450a0aff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#450a0aff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsRed950",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "red",
+                "950"
+              ]
+            }
+          },
+          "amber": {
+            "50": {
+              "type": "color",
+              "value": "#fffbebff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#fffbebff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsAmber50",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "50"
+              ]
+            },
+            "100": {
+              "type": "color",
+              "value": "#fef3c7ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#fef3c7ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsAmber100",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "100"
+              ]
+            },
+            "200": {
+              "type": "color",
+              "value": "#fde68aff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#fde68aff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsAmber200",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "200"
+              ]
+            },
+            "300": {
+              "type": "color",
+              "value": "#fcd34dff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#fcd34dff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsAmber300",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "300"
+              ]
+            },
+            "400": {
+              "type": "color",
+              "value": "#fbbf24ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#fbbf24ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsAmber400",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "400"
+              ]
+            },
+            "500": {
+              "type": "color",
+              "value": "#f59e0bff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#f59e0bff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsAmber500",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "500"
+              ]
+            },
+            "600": {
+              "type": "color",
+              "value": "#d97706ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#d97706ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsAmber600",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "600"
+              ]
+            },
+            "700": {
+              "type": "color",
+              "value": "#b45309ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#b45309ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsAmber700",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "700"
+              ]
+            },
+            "800": {
+              "type": "color",
+              "value": "#92400eff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#92400eff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsAmber800",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "800"
+              ]
+            },
+            "900": {
+              "type": "color",
+              "value": "#78350fff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#78350fff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsAmber900",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "900"
+              ]
+            },
+            "950": {
+              "type": "color",
+              "value": "#451a03ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#451a03ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsAmber950",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "amber",
+                "950"
+              ]
+            }
+          },
+          "slate": {
+            "50": {
+              "type": "color",
+              "value": "#f8fafcff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#f8fafcff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsSlate50",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "50"
+              ]
+            },
+            "100": {
+              "type": "color",
+              "value": "#f1f5f9ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#f1f5f9ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsSlate100",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "100"
+              ]
+            },
+            "200": {
+              "type": "color",
+              "value": "#e2e8f0ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#e2e8f0ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsSlate200",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "200"
+              ]
+            },
+            "300": {
+              "type": "color",
+              "value": "#cbd5e1ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#cbd5e1ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsSlate300",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "300"
+              ]
+            },
+            "400": {
+              "type": "color",
+              "value": "#94a3b8ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#94a3b8ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsSlate400",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "400"
+              ]
+            },
+            "500": {
+              "type": "color",
+              "value": "#64748bff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#64748bff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsSlate500",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "500"
+              ]
+            },
+            "600": {
+              "type": "color",
+              "value": "#475569ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#475569ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsSlate600",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "600"
+              ]
+            },
+            "700": {
+              "type": "color",
+              "value": "#334155ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#334155ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsSlate700",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "700"
+              ]
+            },
+            "800": {
+              "type": "color",
+              "value": "#1e293bff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#1e293bff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsSlate800",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "800"
+              ]
+            },
+            "900": {
+              "type": "color",
+              "value": "#0f172aff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#0f172aff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsSlate900",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "900"
+              ]
+            },
+            "950": {
+              "type": "color",
+              "value": "#020617ff",
+              "blendMode": "normal",
+              "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+              "isSource": true,
+              "original": {
+                "type": "color",
+                "value": "#020617ff",
+                "blendMode": "normal"
+              },
+              "name": "cjibColorDarkBaseColorsRampsSlate950",
+              "attributes": {},
+              "path": [
+                "cjib-color",
+                "dark",
+                "_base - colors",
+                "ramps",
+                "slate",
+                "950"
               ]
             }
           }
@@ -9024,10 +9540,10 @@ module.exports = {
             "value": "#007bc7ff",
             "blendMode": "normal"
           },
-          "name": "colorDarkBaseColorsRoHemelblauw",
+          "name": "cjibColorDarkBaseColorsRoHemelblauw",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "_base - colors",
             "ro - hemelblauw"
@@ -9044,53 +9560,13 @@ module.exports = {
             "value": "#42145fff",
             "blendMode": "normal"
           },
-          "name": "colorDarkBaseColorsRoPaars",
+          "name": "cjibColorDarkBaseColorsRoPaars",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "_base - colors",
             "ro - paars"
-          ]
-        },
-        "scarlet": {
-          "type": "color",
-          "value": "#af0020ff",
-          "blendMode": "normal",
-          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-          "isSource": true,
-          "original": {
-            "type": "color",
-            "value": "#af0020ff",
-            "blendMode": "normal"
-          },
-          "name": "colorDarkBaseColorsScarlet",
-          "attributes": {},
-          "path": [
-            "color",
-            "dark",
-            "_base - colors",
-            "scarlet"
-          ]
-        },
-        "squash": {
-          "type": "color",
-          "value": "#fe9e02ff",
-          "blendMode": "normal",
-          "filePath": "src/lib/__tokens__/adelyn.tokens.json",
-          "isSource": true,
-          "original": {
-            "type": "color",
-            "value": "#fe9e02ff",
-            "blendMode": "normal"
-          },
-          "name": "colorDarkBaseColorsSquash",
-          "attributes": {},
-          "path": [
-            "color",
-            "dark",
-            "_base - colors",
-            "squash"
           ]
         },
         "white": {
@@ -9104,10 +9580,10 @@ module.exports = {
             "value": "#ffffffff",
             "blendMode": "normal"
           },
-          "name": "colorDarkBaseColorsWhite",
+          "name": "cjibColorDarkBaseColorsWhite",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "_base - colors",
             "white"
@@ -9122,12 +9598,12 @@ module.exports = {
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.ramps.ro - paars.80}"
+            "value": "{cjib-color.dark._base - colors.ramps.ro - paars.300}"
           },
-          "name": "colorDarkLogoLogo01",
+          "name": "cjibColorDarkLogoLogo01",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "logo",
             "logo-01"
@@ -9140,12 +9616,12 @@ module.exports = {
           "isSource": true,
           "original": {
             "type": "color",
-            "value": "{color.dark._base - colors.ramps.ro - hemelblauw.80}"
+            "value": "{cjib-color.dark._base - colors.ramps.ro - hemelblauw.300}"
           },
-          "name": "colorDarkLogoLogo02",
+          "name": "cjibColorDarkLogoLogo02",
           "attributes": {},
           "path": [
-            "color",
+            "cjib-color",
             "dark",
             "logo",
             "logo-02"
@@ -9530,6 +10006,161 @@ module.exports = {
           "base",
           "spacer",
           "0-5"
+        ]
+      }
+    },
+    "dimension": {
+      "xxxs": {
+        "type": "dimension",
+        "value": 20,
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true,
+        "original": {
+          "type": "dimension",
+          "value": 20
+        },
+        "name": "baseDimensionXxxs",
+        "attributes": {},
+        "path": [
+          "base",
+          "dimension",
+          "xxxs"
+        ]
+      },
+      "xxs": {
+        "type": "dimension",
+        "value": 56,
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true,
+        "original": {
+          "type": "dimension",
+          "value": 56
+        },
+        "name": "baseDimensionXxs",
+        "attributes": {},
+        "path": [
+          "base",
+          "dimension",
+          "xxs"
+        ]
+      },
+      "xs": {
+        "type": "dimension",
+        "value": 80,
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true,
+        "original": {
+          "type": "dimension",
+          "value": 80
+        },
+        "name": "baseDimensionXs",
+        "attributes": {},
+        "path": [
+          "base",
+          "dimension",
+          "xs"
+        ]
+      },
+      "s": {
+        "type": "dimension",
+        "value": 120,
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true,
+        "original": {
+          "type": "dimension",
+          "value": 120
+        },
+        "name": "baseDimensionS",
+        "attributes": {},
+        "path": [
+          "base",
+          "dimension",
+          "s"
+        ]
+      },
+      "m": {
+        "type": "dimension",
+        "value": 160,
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true,
+        "original": {
+          "type": "dimension",
+          "value": 160
+        },
+        "name": "baseDimensionM",
+        "attributes": {},
+        "path": [
+          "base",
+          "dimension",
+          "m"
+        ]
+      },
+      "l": {
+        "type": "dimension",
+        "value": 200,
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true,
+        "original": {
+          "type": "dimension",
+          "value": 200
+        },
+        "name": "baseDimensionL",
+        "attributes": {},
+        "path": [
+          "base",
+          "dimension",
+          "l"
+        ]
+      },
+      "xl": {
+        "type": "dimension",
+        "value": 240,
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true,
+        "original": {
+          "type": "dimension",
+          "value": 240
+        },
+        "name": "baseDimensionXl",
+        "attributes": {},
+        "path": [
+          "base",
+          "dimension",
+          "xl"
+        ]
+      },
+      "xxl": {
+        "type": "dimension",
+        "value": 280,
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true,
+        "original": {
+          "type": "dimension",
+          "value": 280
+        },
+        "name": "baseDimensionXxl",
+        "attributes": {},
+        "path": [
+          "base",
+          "dimension",
+          "xxl"
+        ]
+      },
+      "xxxl": {
+        "type": "dimension",
+        "value": 320,
+        "filePath": "src/lib/__tokens__/adelyn.tokens.json",
+        "isSource": true,
+        "original": {
+          "type": "dimension",
+          "value": 320
+        },
+        "name": "baseDimensionXxxl",
+        "attributes": {},
+        "path": [
+          "base",
+          "dimension",
+          "xxxl"
         ]
       }
     }
